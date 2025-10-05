@@ -1,0 +1,1 @@
+/home/minsuje/ros2_ws/src/DoosanBootcamp3rd/dsr_tests/launch/dsr_bringup_without_spawner_test.launch.py

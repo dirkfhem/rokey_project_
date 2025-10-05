@@ -1,0 +1,18 @@
+[2.077s] Invoking command in '/home/minsuje/turtlebot3_ws/build/car_tutorial': PYTHONPATH=/home/minsuje/turtlebot3_ws/build/car_tutorial/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/minsuje/turtlebot3_ws/install/car_tutorial/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/minsuje/turtlebot3_ws/build/car_tutorial/build --no-deps symlink_data
+[2.287s] running develop
+[2.455s] running egg_info
+[2.456s] writing car_tutorial.egg-info/PKG-INFO
+[2.456s] writing dependency_links to car_tutorial.egg-info/dependency_links.txt
+[2.456s] writing entry points to car_tutorial.egg-info/entry_points.txt
+[2.456s] writing requirements to car_tutorial.egg-info/requires.txt
+[2.456s] writing top-level names to car_tutorial.egg-info/top_level.txt
+[2.457s] reading manifest file 'car_tutorial.egg-info/SOURCES.txt'
+[2.457s] writing manifest file 'car_tutorial.egg-info/SOURCES.txt'
+[2.481s] running build_ext
+[2.481s] Creating /home/minsuje/turtlebot3_ws/install/car_tutorial/lib/python3.10/site-packages/car-tutorial.egg-link (link to .)
+[2.482s] Installing fake_driver script to /home/minsuje/turtlebot3_ws/install/car_tutorial/lib/car_tutorial
+[2.482s] Installing fake_driver_cv2 script to /home/minsuje/turtlebot3_ws/install/car_tutorial/lib/car_tutorial
+[2.482s] 
+[2.482s] Installed /home/minsuje/turtlebot3_ws/build/car_tutorial
+[2.482s] running symlink_data
+[2.520s] Invoked command in '/home/minsuje/turtlebot3_ws/build/car_tutorial' returned '0': PYTHONPATH=/home/minsuje/turtlebot3_ws/build/car_tutorial/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/minsuje/turtlebot3_ws/install/car_tutorial/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/minsuje/turtlebot3_ws/build/car_tutorial/build --no-deps symlink_data

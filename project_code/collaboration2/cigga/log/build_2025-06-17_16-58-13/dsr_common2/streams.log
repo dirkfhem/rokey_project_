@@ -1,0 +1,34 @@
+[0.060s] Invoking command in '/home/minsuje/ros2_ws/build/dsr_common2': CMAKE_PREFIX_PATH=/home/minsuje/ros2_ws/install/rokey:/home/minsuje/ros2_ws/install/pick_and_place_voice:/home/minsuje/ros2_ws/install/pick_and_place_text:/home/minsuje/ros2_ws/install/my_service_pkg:/home/minsuje/ros2_ws/install/dsr_visualservoing:/home/minsuje/ros2_ws/install/dsr_tests:/home/minsuje/ros2_ws/install/dsr_bringup2:/home/minsuje/ros2_ws/install/dsr_example:/opt/ros/humble:${CMAKE_PREFIX_PATH} /usr/bin/cmake --build /home/minsuje/ros2_ws/build/dsr_common2 -- -j32 -l32
+[1.001s] Invoked command in '/home/minsuje/ros2_ws/build/dsr_common2' returned '0': CMAKE_PREFIX_PATH=/home/minsuje/ros2_ws/install/rokey:/home/minsuje/ros2_ws/install/pick_and_place_voice:/home/minsuje/ros2_ws/install/pick_and_place_text:/home/minsuje/ros2_ws/install/my_service_pkg:/home/minsuje/ros2_ws/install/dsr_visualservoing:/home/minsuje/ros2_ws/install/dsr_tests:/home/minsuje/ros2_ws/install/dsr_bringup2:/home/minsuje/ros2_ws/install/dsr_example:/opt/ros/humble:${CMAKE_PREFIX_PATH} /usr/bin/cmake --build /home/minsuje/ros2_ws/build/dsr_common2 -- -j32 -l32
+[1.002s] Invoking command in '/home/minsuje/ros2_ws/build/dsr_common2': CMAKE_PREFIX_PATH=/home/minsuje/ros2_ws/install/rokey:/home/minsuje/ros2_ws/install/pick_and_place_voice:/home/minsuje/ros2_ws/install/pick_and_place_text:/home/minsuje/ros2_ws/install/my_service_pkg:/home/minsuje/ros2_ws/install/dsr_visualservoing:/home/minsuje/ros2_ws/install/dsr_tests:/home/minsuje/ros2_ws/install/dsr_bringup2:/home/minsuje/ros2_ws/install/dsr_example:/opt/ros/humble:${CMAKE_PREFIX_PATH} /usr/bin/cmake --install /home/minsuje/ros2_ws/build/dsr_common2
+[1.041s] -- Install configuration: ""
+[1.041s] -- Execute custom install script
+[1.042s] -- Up-to-date symlink: /home/minsuje/ros2_ws/install/dsr_common2/share/ament_index/resource_index/package_run_dependencies/dsr_common2
+[1.043s] -- Up-to-date symlink: /home/minsuje/ros2_ws/install/dsr_common2/share/ament_index/resource_index/parent_prefix_path/dsr_common2
+[1.043s] -- Up-to-date symlink: /home/minsuje/ros2_ws/install/dsr_common2/share/dsr_common2/environment/ament_prefix_path.sh
+[1.043s] -- Up-to-date symlink: /home/minsuje/ros2_ws/install/dsr_common2/share/dsr_common2/environment/ament_prefix_path.dsv
+[1.043s] -- Up-to-date symlink: /home/minsuje/ros2_ws/install/dsr_common2/share/dsr_common2/environment/path.sh
+[1.043s] -- Up-to-date symlink: /home/minsuje/ros2_ws/install/dsr_common2/share/dsr_common2/environment/path.dsv
+[1.043s] -- Up-to-date symlink: /home/minsuje/ros2_ws/install/dsr_common2/share/dsr_common2/local_setup.bash
+[1.043s] -- Up-to-date symlink: /home/minsuje/ros2_ws/install/dsr_common2/share/dsr_common2/local_setup.sh
+[1.043s] -- Up-to-date symlink: /home/minsuje/ros2_ws/install/dsr_common2/share/dsr_common2/local_setup.zsh
+[1.044s] -- Up-to-date symlink: /home/minsuje/ros2_ws/install/dsr_common2/share/dsr_common2/local_setup.dsv
+[1.044s] -- Symlinking: /home/minsuje/ros2_ws/install/dsr_common2/share/dsr_common2/package.dsv
+[1.044s] -- Up-to-date symlink: /home/minsuje/ros2_ws/install/dsr_common2/share/ament_index/resource_index/packages/dsr_common2
+[1.044s] -- Up-to-date symlink: /home/minsuje/ros2_ws/install/dsr_common2/share/dsr_common2/cmake/dsr_common2Config.cmake
+[1.044s] -- Up-to-date symlink: /home/minsuje/ros2_ws/install/dsr_common2/share/dsr_common2/cmake/dsr_common2Config-version.cmake
+[1.044s] -- Up-to-date symlink: /home/minsuje/ros2_ws/install/dsr_common2/share/dsr_common2/package.xml
+[1.044s] -- Up-to-date: /home/minsuje/ros2_ws/install/dsr_common2/share/dsr_common2/bin
+[1.044s] -- Up-to-date: /home/minsuje/ros2_ws/install/dsr_common2/share/dsr_common2/bin/common2
+[1.044s] -- Up-to-date: /home/minsuje/ros2_ws/install/dsr_common2/share/dsr_common2/bin/run_drcf.sh
+[1.044s] -- Up-to-date: /home/minsuje/ros2_ws/install/dsr_common2/lib/dsr_common2/imp
+[1.045s] -- Up-to-date: /home/minsuje/ros2_ws/install/dsr_common2/lib/dsr_common2/imp/DR_error2.py
+[1.045s] -- Up-to-date: /home/minsuje/ros2_ws/install/dsr_common2/lib/dsr_common2/imp/DR_init.py
+[1.045s] -- Up-to-date: /home/minsuje/ros2_ws/install/dsr_common2/lib/dsr_common2/imp/DRFC.py
+[1.045s] -- Up-to-date: /home/minsuje/ros2_ws/install/dsr_common2/lib/dsr_common2/imp/__init__.py
+[1.045s] -- Up-to-date: /home/minsuje/ros2_ws/install/dsr_common2/lib/dsr_common2/imp/DR_common2.py
+[1.045s] -- Up-to-date: /home/minsuje/ros2_ws/install/dsr_common2/lib/dsr_common2/imp/DR_tcp_client2.py
+[1.045s] -- Up-to-date: /home/minsuje/ros2_ws/install/dsr_common2/lib/dsr_common2/imp/DR_tcp_server2.py
+[1.045s] -- Up-to-date: /home/minsuje/ros2_ws/install/dsr_common2/lib/dsr_common2/imp/DSR_ROBOT2.py
+[1.045s] -- Up-to-date: /home/minsuje/ros2_ws/install/dsr_common2/lib/dsr_common2/imp/DSR_util2.py
+[1.185s] Invoked command in '/home/minsuje/ros2_ws/build/dsr_common2' returned '0': CMAKE_PREFIX_PATH=/home/minsuje/ros2_ws/install/rokey:/home/minsuje/ros2_ws/install/pick_and_place_voice:/home/minsuje/ros2_ws/install/pick_and_place_text:/home/minsuje/ros2_ws/install/my_service_pkg:/home/minsuje/ros2_ws/install/dsr_visualservoing:/home/minsuje/ros2_ws/install/dsr_tests:/home/minsuje/ros2_ws/install/dsr_bringup2:/home/minsuje/ros2_ws/install/dsr_example:/opt/ros/humble:${CMAKE_PREFIX_PATH} /usr/bin/cmake --install /home/minsuje/ros2_ws/build/dsr_common2

@@ -1,0 +1,24 @@
+running develop
+running egg_info
+writing rokey.egg-info/PKG-INFO
+writing dependency_links to rokey.egg-info/dependency_links.txt
+writing entry points to rokey.egg-info/entry_points.txt
+writing requirements to rokey.egg-info/requires.txt
+writing top-level names to rokey.egg-info/top_level.txt
+reading manifest file 'rokey.egg-info/SOURCES.txt'
+writing manifest file 'rokey.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/minsuje/ros2_ws/install/rokey/lib/python3.10/site-packages/rokey.egg-link (link to .)
+Installing data_recording script to /home/minsuje/ros2_ws/install/rokey/lib/rokey
+Installing force_control script to /home/minsuje/ros2_ws/install/rokey/lib/rokey
+Installing get_current_pos script to /home/minsuje/ros2_ws/install/rokey/lib/rokey
+Installing getting_position script to /home/minsuje/ros2_ws/install/rokey/lib/rokey
+Installing grip script to /home/minsuje/ros2_ws/install/rokey/lib/rokey
+Installing jog script to /home/minsuje/ros2_ws/install/rokey/lib/rokey
+Installing move_periodic script to /home/minsuje/ros2_ws/install/rokey/lib/rokey
+Installing simple_amove script to /home/minsuje/ros2_ws/install/rokey/lib/rokey
+Installing simple_move script to /home/minsuje/ros2_ws/install/rokey/lib/rokey
+Installing simple_movesx script to /home/minsuje/ros2_ws/install/rokey/lib/rokey
+
+Installed /home/minsuje/ros2_ws/build/rokey
+running symlink_data

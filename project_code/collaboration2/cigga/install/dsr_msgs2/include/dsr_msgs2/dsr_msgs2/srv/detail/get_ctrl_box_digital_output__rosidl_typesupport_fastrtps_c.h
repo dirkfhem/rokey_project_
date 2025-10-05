@@ -1,0 +1,1 @@
+/home/minsuje/ros2_ws/build/dsr_msgs2/rosidl_typesupport_fastrtps_c/dsr_msgs2/srv/detail/get_ctrl_box_digital_output__rosidl_typesupport_fastrtps_c.h

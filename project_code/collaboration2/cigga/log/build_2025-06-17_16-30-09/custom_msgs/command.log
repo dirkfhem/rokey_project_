@@ -1,0 +1,6 @@
+Invoking command in '/home/minsuje/ros2_ws/build/custom_msgs': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/minsuje/ros2_ws/Tutorial/VoiceProcessing/custom_msgs -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/minsuje/ros2_ws/install/custom_msgs
+Invoked command in '/home/minsuje/ros2_ws/build/custom_msgs' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/minsuje/ros2_ws/Tutorial/VoiceProcessing/custom_msgs -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/minsuje/ros2_ws/install/custom_msgs
+Invoking command in '/home/minsuje/ros2_ws/build/custom_msgs': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/minsuje/ros2_ws/build/custom_msgs -- -j32 -l32
+Invoked command in '/home/minsuje/ros2_ws/build/custom_msgs' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/minsuje/ros2_ws/build/custom_msgs -- -j32 -l32
+Invoking command in '/home/minsuje/ros2_ws/build/custom_msgs': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/minsuje/ros2_ws/build/custom_msgs
+Invoked command in '/home/minsuje/ros2_ws/build/custom_msgs' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/minsuje/ros2_ws/build/custom_msgs

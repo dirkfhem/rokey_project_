@@ -1,0 +1,1 @@
+/home/minsuje/ros2_ws/build/dsr_realtime_control/ament_cmake_environment_hooks/local_setup.bash

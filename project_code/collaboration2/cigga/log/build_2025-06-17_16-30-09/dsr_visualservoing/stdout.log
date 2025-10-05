@@ -1,0 +1,46 @@
+running develop
+running egg_info
+creating dsr_visualservoing.egg-info
+writing dsr_visualservoing.egg-info/PKG-INFO
+writing dependency_links to dsr_visualservoing.egg-info/dependency_links.txt
+writing entry points to dsr_visualservoing.egg-info/entry_points.txt
+writing requirements to dsr_visualservoing.egg-info/requires.txt
+writing top-level names to dsr_visualservoing.egg-info/top_level.txt
+writing manifest file 'dsr_visualservoing.egg-info/SOURCES.txt'
+reading manifest file 'dsr_visualservoing.egg-info/SOURCES.txt'
+writing manifest file 'dsr_visualservoing.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/minsuje/ros2_ws/install/dsr_visualservoing/lib/python3.10/site-packages/dsr-visualservoing.egg-link (link to .)
+Installing camera_publisher script to /home/minsuje/ros2_ws/install/dsr_visualservoing/lib/dsr_visualservoing
+Installing detect_marker_gz script to /home/minsuje/ros2_ws/install/dsr_visualservoing/lib/dsr_visualservoing
+Installing joint90 script to /home/minsuje/ros2_ws/install/dsr_visualservoing/lib/dsr_visualservoing
+Installing send_pose_servol_gz script to /home/minsuje/ros2_ws/install/dsr_visualservoing/lib/dsr_visualservoing
+
+Installed /home/minsuje/ros2_ws/build/dsr_visualservoing
+running symlink_data
+creating /home/minsuje/ros2_ws/install/dsr_visualservoing/share/ament_index
+creating /home/minsuje/ros2_ws/install/dsr_visualservoing/share/ament_index/resource_index
+creating /home/minsuje/ros2_ws/install/dsr_visualservoing/share/ament_index/resource_index/packages
+symbolically linking /home/minsuje/ros2_ws/build/dsr_visualservoing/resource/dsr_visualservoing -> /home/minsuje/ros2_ws/install/dsr_visualservoing/share/ament_index/resource_index/packages
+symbolically linking /home/minsuje/ros2_ws/build/dsr_visualservoing/package.xml -> /home/minsuje/ros2_ws/install/dsr_visualservoing/share/dsr_visualservoing
+creating /home/minsuje/ros2_ws/install/dsr_visualservoing/share/dsr_visualservoing/launch
+symbolically linking /home/minsuje/ros2_ws/build/dsr_visualservoing/launch/dsr_gazebo_visual_servoing.launch.py -> /home/minsuje/ros2_ws/install/dsr_visualservoing/share/dsr_visualservoing/launch
+symbolically linking /home/minsuje/ros2_ws/build/dsr_visualservoing/launch/camera_calibration.launch.py -> /home/minsuje/ros2_ws/install/dsr_visualservoing/share/dsr_visualservoing/launch
+symbolically linking /home/minsuje/ros2_ws/build/dsr_visualservoing/launch/visual_servoing_gz.launch.py -> /home/minsuje/ros2_ws/install/dsr_visualservoing/share/dsr_visualservoing/launch
+symbolically linking /home/minsuje/ros2_ws/build/dsr_visualservoing/launch/rgbd_camera.launch.py -> /home/minsuje/ros2_ws/install/dsr_visualservoing/share/dsr_visualservoing/launch
+symbolically linking /home/minsuje/ros2_ws/build/dsr_visualservoing/launch/dsr_bringup2_visual_servoing_gazebo.launch.py -> /home/minsuje/ros2_ws/install/dsr_visualservoing/share/dsr_visualservoing/launch
+creating /home/minsuje/ros2_ws/install/dsr_visualservoing/share/dsr_visualservoing/config
+symbolically linking /home/minsuje/ros2_ws/build/dsr_visualservoing/config/real_camera.yaml -> /home/minsuje/ros2_ws/install/dsr_visualservoing/share/dsr_visualservoing/config
+symbolically linking /home/minsuje/ros2_ws/build/dsr_visualservoing/config/rgbd_camera_gz.yaml -> /home/minsuje/ros2_ws/install/dsr_visualservoing/share/dsr_visualservoing/config
+creating /home/minsuje/ros2_ws/install/dsr_visualservoing/share/dsr_visualservoing/description
+symbolically linking /home/minsuje/ros2_ws/build/dsr_visualservoing/description/camera_calibration.sdf -> /home/minsuje/ros2_ws/install/dsr_visualservoing/share/dsr_visualservoing/description
+symbolically linking /home/minsuje/ros2_ws/build/dsr_visualservoing/description/markerbox2.sdf -> /home/minsuje/ros2_ws/install/dsr_visualservoing/share/dsr_visualservoing/description
+symbolically linking /home/minsuje/ros2_ws/build/dsr_visualservoing/description/visual_servoing.sdf -> /home/minsuje/ros2_ws/install/dsr_visualservoing/share/dsr_visualservoing/description
+symbolically linking /home/minsuje/ros2_ws/build/dsr_visualservoing/description/checker_board.sdf -> /home/minsuje/ros2_ws/install/dsr_visualservoing/share/dsr_visualservoing/description
+symbolically linking /home/minsuje/ros2_ws/build/dsr_visualservoing/description/markerbox1.sdf -> /home/minsuje/ros2_ws/install/dsr_visualservoing/share/dsr_visualservoing/description
+symbolically linking /home/minsuje/ros2_ws/build/dsr_visualservoing/description/markerbox3.sdf -> /home/minsuje/ros2_ws/install/dsr_visualservoing/share/dsr_visualservoing/description
+creating /home/minsuje/ros2_ws/install/dsr_visualservoing/share/dsr_visualservoing/description/textures
+symbolically linking /home/minsuje/ros2_ws/build/dsr_visualservoing/description/textures/4x4_1000-1_115.png -> /home/minsuje/ros2_ws/install/dsr_visualservoing/share/dsr_visualservoing/description/textures
+symbolically linking /home/minsuje/ros2_ws/build/dsr_visualservoing/description/textures/4x4_1000-3_115.png -> /home/minsuje/ros2_ws/install/dsr_visualservoing/share/dsr_visualservoing/description/textures
+symbolically linking /home/minsuje/ros2_ws/build/dsr_visualservoing/description/textures/4x4_1000-2_115.png -> /home/minsuje/ros2_ws/install/dsr_visualservoing/share/dsr_visualservoing/description/textures
+symbolically linking /home/minsuje/ros2_ws/build/dsr_visualservoing/description/textures/4x4_1000-0.png -> /home/minsuje/ros2_ws/install/dsr_visualservoing/share/dsr_visualservoing/description/textures

@@ -1,0 +1,7 @@
+
+train: /home/minsuje/smoke_fire_detection_yolo/robot_yolo_dataset/train/images
+val: /home/minsuje/smoke_fire_detection_yolo/robot_yolo_dataset/val/images
+test: /home/minsuje/smoke_fire_detection_yolo/robot_yolo_dataset/test/images
+
+nc: 1
+names: ['fire']

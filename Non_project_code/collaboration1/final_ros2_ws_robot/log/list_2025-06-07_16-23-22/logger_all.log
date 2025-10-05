@@ -1,0 +1,322 @@
+[0.054s] DEBUG:colcon:Command line arguments: ['/usr/bin/colcon', 'list', '-p', '--base-paths', '/home/minsuje/ros2_ws']
+[0.054s] DEBUG:colcon:Parsed command line arguments: Namespace(log_base=None, log_level=None, verb_name='list', build_base='build', ignore_user_meta=False, metas=['./colcon.meta'], base_paths=['/home/minsuje/ros2_ws'], packages_ignore=None, packages_ignore_regex=None, paths=None, packages_up_to=None, packages_up_to_regex=None, packages_above=None, packages_above_and_dependencies=None, packages_above_depth=None, packages_select_by_dep=None, packages_skip_by_dep=None, packages_skip_up_to=None, packages_select_build_failed=False, packages_skip_build_finished=False, packages_select_test_failures=False, packages_skip_test_passed=False, packages_select=None, packages_skip=None, packages_select_regex=None, packages_skip_regex=None, packages_start=None, packages_end=None, allow_overriding=[], topological_order=False, names_only=False, paths_only=True, topological_graph=False, topological_graph_dot=False, topological_graph_density=False, topological_graph_legend=False, topological_graph_dot_cluster=False, topological_graph_dot_include_skipped=False, verb_parser=<colcon_defaults.argument_parser.defaults.DefaultArgumentsDecorator object at 0x71e916b856c0>, verb_extension=<colcon_package_information.verb.list.ListVerb object at 0x71e916b847f0>, main=<bound method ListVerb.main of <colcon_package_information.verb.list.ListVerb object at 0x71e916b847f0>>)
+[0.171s] Level 1:colcon.colcon_core.package_discovery:discover_packages(colcon_meta) check parameters
+[0.171s] Level 1:colcon.colcon_core.package_discovery:discover_packages(recursive) check parameters
+[0.171s] Level 1:colcon.colcon_core.package_discovery:discover_packages(ignore) check parameters
+[0.171s] Level 1:colcon.colcon_core.package_discovery:discover_packages(path) check parameters
+[0.171s] Level 1:colcon.colcon_core.package_discovery:discover_packages(recursive) discover
+[0.171s] INFO:colcon.colcon_core.package_discovery:Crawling recursively for packages in '/home/minsuje/ros2_ws'
+[0.171s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws) by extensions ['ignore', 'ignore_ament_install']
+[0.171s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws) by extension 'ignore'
+[0.171s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws) by extension 'ignore_ament_install'
+[0.171s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws) by extensions ['colcon_pkg']
+[0.171s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws) by extension 'colcon_pkg'
+[0.171s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws) by extensions ['colcon_meta']
+[0.171s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws) by extension 'colcon_meta'
+[0.171s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws) by extensions ['ros']
+[0.171s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws) by extension 'ros'
+[0.181s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws) by extensions ['cmake', 'python']
+[0.181s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws) by extension 'cmake'
+[0.181s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws) by extension 'python'
+[0.181s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws) by extensions ['python_setup_py']
+[0.181s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws) by extension 'python_setup_py'
+[0.181s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/build) by extensions ['ignore', 'ignore_ament_install']
+[0.181s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/build) by extension 'ignore'
+[0.181s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/build) ignored
+[0.181s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/install) by extensions ['ignore', 'ignore_ament_install']
+[0.181s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/install) by extension 'ignore'
+[0.181s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/install) ignored
+[0.181s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/log) by extensions ['ignore', 'ignore_ament_install']
+[0.181s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/log) by extension 'ignore'
+[0.181s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/log) ignored
+[0.181s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src) by extensions ['ignore', 'ignore_ament_install']
+[0.181s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src) by extension 'ignore'
+[0.181s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src) by extension 'ignore_ament_install'
+[0.181s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src) by extensions ['colcon_pkg']
+[0.181s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src) by extension 'colcon_pkg'
+[0.181s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src) by extensions ['colcon_meta']
+[0.181s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src) by extension 'colcon_meta'
+[0.181s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src) by extensions ['ros']
+[0.181s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src) by extension 'ros'
+[0.181s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src) by extensions ['cmake', 'python']
+[0.181s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src) by extension 'cmake'
+[0.181s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src) by extension 'python'
+[0.181s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src) by extensions ['python_setup_py']
+[0.181s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src) by extension 'python_setup_py'
+[0.181s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1) by extensions ['ignore', 'ignore_ament_install']
+[0.182s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1) by extension 'ignore'
+[0.182s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1) by extension 'ignore_ament_install'
+[0.182s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1) by extensions ['colcon_pkg']
+[0.182s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1) by extension 'colcon_pkg'
+[0.182s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1) by extensions ['colcon_meta']
+[0.182s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1) by extension 'colcon_meta'
+[0.182s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1) by extensions ['ros']
+[0.182s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1) by extension 'ros'
+[0.182s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1) by extensions ['cmake', 'python']
+[0.182s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1) by extension 'cmake'
+[0.182s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1) by extension 'python'
+[0.182s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1) by extensions ['python_setup_py']
+[0.182s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1) by extension 'python_setup_py'
+[0.182s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_bringup2) by extensions ['ignore', 'ignore_ament_install']
+[0.182s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_bringup2) by extension 'ignore'
+[0.182s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_bringup2) by extension 'ignore_ament_install'
+[0.182s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_bringup2) by extensions ['colcon_pkg']
+[0.182s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_bringup2) by extension 'colcon_pkg'
+[0.182s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_bringup2) by extensions ['colcon_meta']
+[0.182s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_bringup2) by extension 'colcon_meta'
+[0.182s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_bringup2) by extensions ['ros']
+[0.182s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_bringup2) by extension 'ros'
+[0.183s] DEBUG:colcon.colcon_core.package_identification:Package '/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_bringup2' with type 'ros.ament_python' and name 'dsr_bringup2'
+[0.183s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_common2) by extensions ['ignore', 'ignore_ament_install']
+[0.183s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_common2) by extension 'ignore'
+[0.183s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_common2) by extension 'ignore_ament_install'
+[0.183s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_common2) by extensions ['colcon_pkg']
+[0.183s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_common2) by extension 'colcon_pkg'
+[0.183s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_common2) by extensions ['colcon_meta']
+[0.183s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_common2) by extension 'colcon_meta'
+[0.183s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_common2) by extensions ['ros']
+[0.183s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_common2) by extension 'ros'
+[0.184s] DEBUG:colcon.colcon_core.package_identification:Package '/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_common2' with type 'ros.ament_cmake' and name 'dsr_common2'
+[0.184s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_controller2) by extensions ['ignore', 'ignore_ament_install']
+[0.184s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_controller2) by extension 'ignore'
+[0.184s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_controller2) by extension 'ignore_ament_install'
+[0.184s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_controller2) by extensions ['colcon_pkg']
+[0.184s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_controller2) by extension 'colcon_pkg'
+[0.184s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_controller2) by extensions ['colcon_meta']
+[0.184s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_controller2) by extension 'colcon_meta'
+[0.184s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_controller2) by extensions ['ros']
+[0.184s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_controller2) by extension 'ros'
+[0.185s] DEBUG:colcon.colcon_core.package_identification:Package '/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_controller2' with type 'ros.ament_cmake' and name 'dsr_controller2'
+[0.185s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_description2) by extensions ['ignore', 'ignore_ament_install']
+[0.185s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_description2) by extension 'ignore'
+[0.185s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_description2) by extension 'ignore_ament_install'
+[0.185s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_description2) by extensions ['colcon_pkg']
+[0.185s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_description2) by extension 'colcon_pkg'
+[0.185s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_description2) by extensions ['colcon_meta']
+[0.185s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_description2) by extension 'colcon_meta'
+[0.185s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_description2) by extensions ['ros']
+[0.185s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_description2) by extension 'ros'
+[0.185s] DEBUG:colcon.colcon_core.package_identification:Package '/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_description2' with type 'ros.ament_cmake' and name 'dsr_description2'
+[0.185s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_example2) by extensions ['ignore', 'ignore_ament_install']
+[0.185s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_example2) by extension 'ignore'
+[0.186s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_example2) by extension 'ignore_ament_install'
+[0.186s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_example2) by extensions ['colcon_pkg']
+[0.186s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_example2) by extension 'colcon_pkg'
+[0.186s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_example2) by extensions ['colcon_meta']
+[0.186s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_example2) by extension 'colcon_meta'
+[0.186s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_example2) by extensions ['ros']
+[0.186s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_example2) by extension 'ros'
+[0.186s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_example2) by extensions ['cmake', 'python']
+[0.186s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_example2) by extension 'cmake'
+[0.186s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_example2) by extension 'python'
+[0.186s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_example2) by extensions ['python_setup_py']
+[0.186s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_example2) by extension 'python_setup_py'
+[0.186s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_example2/dsr_example) by extensions ['ignore', 'ignore_ament_install']
+[0.186s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_example2/dsr_example) by extension 'ignore'
+[0.186s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_example2/dsr_example) by extension 'ignore_ament_install'
+[0.186s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_example2/dsr_example) by extensions ['colcon_pkg']
+[0.186s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_example2/dsr_example) by extension 'colcon_pkg'
+[0.186s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_example2/dsr_example) by extensions ['colcon_meta']
+[0.186s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_example2/dsr_example) by extension 'colcon_meta'
+[0.186s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_example2/dsr_example) by extensions ['ros']
+[0.186s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_example2/dsr_example) by extension 'ros'
+[0.186s] DEBUG:colcon.colcon_core.package_identification:Package '/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_example2/dsr_example' with type 'ros.ament_python' and name 'dsr_example'
+[0.186s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_example2/dsr_realtime_control) by extensions ['ignore', 'ignore_ament_install']
+[0.186s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_example2/dsr_realtime_control) by extension 'ignore'
+[0.186s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_example2/dsr_realtime_control) by extension 'ignore_ament_install'
+[0.186s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_example2/dsr_realtime_control) by extensions ['colcon_pkg']
+[0.186s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_example2/dsr_realtime_control) by extension 'colcon_pkg'
+[0.186s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_example2/dsr_realtime_control) by extensions ['colcon_meta']
+[0.186s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_example2/dsr_realtime_control) by extension 'colcon_meta'
+[0.186s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_example2/dsr_realtime_control) by extensions ['ros']
+[0.186s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_example2/dsr_realtime_control) by extension 'ros'
+[0.187s] DEBUG:colcon.colcon_core.package_identification:Package '/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_example2/dsr_realtime_control' with type 'ros.ament_cmake' and name 'dsr_realtime_control'
+[0.187s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_example2/dsr_visualservoing) by extensions ['ignore', 'ignore_ament_install']
+[0.187s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_example2/dsr_visualservoing) by extension 'ignore'
+[0.187s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_example2/dsr_visualservoing) by extension 'ignore_ament_install'
+[0.187s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_example2/dsr_visualservoing) by extensions ['colcon_pkg']
+[0.187s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_example2/dsr_visualservoing) by extension 'colcon_pkg'
+[0.187s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_example2/dsr_visualservoing) by extensions ['colcon_meta']
+[0.187s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_example2/dsr_visualservoing) by extension 'colcon_meta'
+[0.187s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_example2/dsr_visualservoing) by extensions ['ros']
+[0.187s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_example2/dsr_visualservoing) by extension 'ros'
+[0.187s] DEBUG:colcon.colcon_core.package_identification:Package '/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_example2/dsr_visualservoing' with type 'ros.ament_python' and name 'dsr_visualservoing'
+[0.187s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_gazebo2) by extensions ['ignore', 'ignore_ament_install']
+[0.187s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_gazebo2) by extension 'ignore'
+[0.187s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_gazebo2) by extension 'ignore_ament_install'
+[0.187s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_gazebo2) by extensions ['colcon_pkg']
+[0.187s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_gazebo2) by extension 'colcon_pkg'
+[0.187s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_gazebo2) by extensions ['colcon_meta']
+[0.187s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_gazebo2) by extension 'colcon_meta'
+[0.187s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_gazebo2) by extensions ['ros']
+[0.188s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_gazebo2) by extension 'ros'
+[0.188s] DEBUG:colcon.colcon_core.package_identification:Package '/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_gazebo2' with type 'ros.ament_cmake' and name 'dsr_gazebo2'
+[0.188s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_hardware2) by extensions ['ignore', 'ignore_ament_install']
+[0.188s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_hardware2) by extension 'ignore'
+[0.188s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_hardware2) by extension 'ignore_ament_install'
+[0.188s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_hardware2) by extensions ['colcon_pkg']
+[0.188s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_hardware2) by extension 'colcon_pkg'
+[0.188s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_hardware2) by extensions ['colcon_meta']
+[0.188s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_hardware2) by extension 'colcon_meta'
+[0.188s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_hardware2) by extensions ['ros']
+[0.188s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_hardware2) by extension 'ros'
+[0.189s] DEBUG:colcon.colcon_core.package_identification:Package '/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_hardware2' with type 'ros.ament_cmake' and name 'dsr_hardware2'
+[0.189s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_moveit2) by extensions ['ignore', 'ignore_ament_install']
+[0.189s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_moveit2) by extension 'ignore'
+[0.189s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_moveit2) by extension 'ignore_ament_install'
+[0.189s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_moveit2) by extensions ['colcon_pkg']
+[0.189s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_moveit2) by extension 'colcon_pkg'
+[0.189s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_moveit2) by extensions ['colcon_meta']
+[0.189s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_moveit2) by extension 'colcon_meta'
+[0.189s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_moveit2) by extensions ['ros']
+[0.189s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_moveit2) by extension 'ros'
+[0.189s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_moveit2) by extensions ['cmake', 'python']
+[0.189s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_moveit2) by extension 'cmake'
+[0.189s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_moveit2) by extension 'python'
+[0.189s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_moveit2) by extensions ['python_setup_py']
+[0.189s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_moveit2) by extension 'python_setup_py'
+[0.189s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_moveit2/dsr_moveit_config_a0509) by extensions ['ignore', 'ignore_ament_install']
+[0.189s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_moveit2/dsr_moveit_config_a0509) by extension 'ignore'
+[0.189s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_moveit2/dsr_moveit_config_a0509) by extension 'ignore_ament_install'
+[0.189s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_moveit2/dsr_moveit_config_a0509) by extensions ['colcon_pkg']
+[0.189s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_moveit2/dsr_moveit_config_a0509) by extension 'colcon_pkg'
+[0.190s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_moveit2/dsr_moveit_config_a0509) by extensions ['colcon_meta']
+[0.190s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_moveit2/dsr_moveit_config_a0509) by extension 'colcon_meta'
+[0.190s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_moveit2/dsr_moveit_config_a0509) by extensions ['ros']
+[0.190s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_moveit2/dsr_moveit_config_a0509) by extension 'ros'
+[0.190s] DEBUG:colcon.colcon_core.package_identification:Package '/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_moveit2/dsr_moveit_config_a0509' with type 'ros.ament_cmake' and name 'dsr_moveit_config_a0509'
+[0.190s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_moveit2/dsr_moveit_config_a0912) by extensions ['ignore', 'ignore_ament_install']
+[0.190s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_moveit2/dsr_moveit_config_a0912) by extension 'ignore'
+[0.190s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_moveit2/dsr_moveit_config_a0912) by extension 'ignore_ament_install'
+[0.190s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_moveit2/dsr_moveit_config_a0912) by extensions ['colcon_pkg']
+[0.190s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_moveit2/dsr_moveit_config_a0912) by extension 'colcon_pkg'
+[0.190s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_moveit2/dsr_moveit_config_a0912) by extensions ['colcon_meta']
+[0.190s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_moveit2/dsr_moveit_config_a0912) by extension 'colcon_meta'
+[0.190s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_moveit2/dsr_moveit_config_a0912) by extensions ['ros']
+[0.190s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_moveit2/dsr_moveit_config_a0912) by extension 'ros'
+[0.190s] DEBUG:colcon.colcon_core.package_identification:Package '/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_moveit2/dsr_moveit_config_a0912' with type 'ros.ament_cmake' and name 'dsr_moveit_config_a0912'
+[0.190s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_moveit2/dsr_moveit_config_e0509) by extensions ['ignore', 'ignore_ament_install']
+[0.190s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_moveit2/dsr_moveit_config_e0509) by extension 'ignore'
+[0.190s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_moveit2/dsr_moveit_config_e0509) by extension 'ignore_ament_install'
+[0.191s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_moveit2/dsr_moveit_config_e0509) by extensions ['colcon_pkg']
+[0.191s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_moveit2/dsr_moveit_config_e0509) by extension 'colcon_pkg'
+[0.191s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_moveit2/dsr_moveit_config_e0509) by extensions ['colcon_meta']
+[0.191s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_moveit2/dsr_moveit_config_e0509) by extension 'colcon_meta'
+[0.191s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_moveit2/dsr_moveit_config_e0509) by extensions ['ros']
+[0.191s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_moveit2/dsr_moveit_config_e0509) by extension 'ros'
+[0.191s] DEBUG:colcon.colcon_core.package_identification:Package '/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_moveit2/dsr_moveit_config_e0509' with type 'ros.ament_cmake' and name 'dsr_moveit_config_e0509'
+[0.191s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_moveit2/dsr_moveit_config_h2017) by extensions ['ignore', 'ignore_ament_install']
+[0.191s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_moveit2/dsr_moveit_config_h2017) by extension 'ignore'
+[0.191s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_moveit2/dsr_moveit_config_h2017) by extension 'ignore_ament_install'
+[0.191s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_moveit2/dsr_moveit_config_h2017) by extensions ['colcon_pkg']
+[0.191s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_moveit2/dsr_moveit_config_h2017) by extension 'colcon_pkg'
+[0.191s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_moveit2/dsr_moveit_config_h2017) by extensions ['colcon_meta']
+[0.191s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_moveit2/dsr_moveit_config_h2017) by extension 'colcon_meta'
+[0.191s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_moveit2/dsr_moveit_config_h2017) by extensions ['ros']
+[0.191s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_moveit2/dsr_moveit_config_h2017) by extension 'ros'
+[0.191s] DEBUG:colcon.colcon_core.package_identification:Package '/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_moveit2/dsr_moveit_config_h2017' with type 'ros.ament_cmake' and name 'dsr_moveit_config_h2017'
+[0.191s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_moveit2/dsr_moveit_config_h2515) by extensions ['ignore', 'ignore_ament_install']
+[0.191s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_moveit2/dsr_moveit_config_h2515) by extension 'ignore'
+[0.191s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_moveit2/dsr_moveit_config_h2515) by extension 'ignore_ament_install'
+[0.191s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_moveit2/dsr_moveit_config_h2515) by extensions ['colcon_pkg']
+[0.191s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_moveit2/dsr_moveit_config_h2515) by extension 'colcon_pkg'
+[0.191s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_moveit2/dsr_moveit_config_h2515) by extensions ['colcon_meta']
+[0.191s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_moveit2/dsr_moveit_config_h2515) by extension 'colcon_meta'
+[0.192s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_moveit2/dsr_moveit_config_h2515) by extensions ['ros']
+[0.192s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_moveit2/dsr_moveit_config_h2515) by extension 'ros'
+[0.192s] DEBUG:colcon.colcon_core.package_identification:Package '/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_moveit2/dsr_moveit_config_h2515' with type 'ros.ament_cmake' and name 'dsr_moveit_config_h2515'
+[0.192s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_moveit2/dsr_moveit_config_m0609) by extensions ['ignore', 'ignore_ament_install']
+[0.192s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_moveit2/dsr_moveit_config_m0609) by extension 'ignore'
+[0.192s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_moveit2/dsr_moveit_config_m0609) by extension 'ignore_ament_install'
+[0.192s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_moveit2/dsr_moveit_config_m0609) by extensions ['colcon_pkg']
+[0.192s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_moveit2/dsr_moveit_config_m0609) by extension 'colcon_pkg'
+[0.192s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_moveit2/dsr_moveit_config_m0609) by extensions ['colcon_meta']
+[0.192s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_moveit2/dsr_moveit_config_m0609) by extension 'colcon_meta'
+[0.192s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_moveit2/dsr_moveit_config_m0609) by extensions ['ros']
+[0.192s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_moveit2/dsr_moveit_config_m0609) by extension 'ros'
+[0.192s] DEBUG:colcon.colcon_core.package_identification:Package '/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_moveit2/dsr_moveit_config_m0609' with type 'ros.ament_cmake' and name 'dsr_moveit_config_m0609'
+[0.192s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_moveit2/dsr_moveit_config_m0617) by extensions ['ignore', 'ignore_ament_install']
+[0.192s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_moveit2/dsr_moveit_config_m0617) by extension 'ignore'
+[0.192s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_moveit2/dsr_moveit_config_m0617) by extension 'ignore_ament_install'
+[0.192s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_moveit2/dsr_moveit_config_m0617) by extensions ['colcon_pkg']
+[0.192s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_moveit2/dsr_moveit_config_m0617) by extension 'colcon_pkg'
+[0.192s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_moveit2/dsr_moveit_config_m0617) by extensions ['colcon_meta']
+[0.192s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_moveit2/dsr_moveit_config_m0617) by extension 'colcon_meta'
+[0.192s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_moveit2/dsr_moveit_config_m0617) by extensions ['ros']
+[0.192s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_moveit2/dsr_moveit_config_m0617) by extension 'ros'
+[0.193s] DEBUG:colcon.colcon_core.package_identification:Package '/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_moveit2/dsr_moveit_config_m0617' with type 'ros.ament_cmake' and name 'dsr_moveit_config_m0617'
+[0.193s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_moveit2/dsr_moveit_config_m1013) by extensions ['ignore', 'ignore_ament_install']
+[0.193s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_moveit2/dsr_moveit_config_m1013) by extension 'ignore'
+[0.193s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_moveit2/dsr_moveit_config_m1013) by extension 'ignore_ament_install'
+[0.194s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_moveit2/dsr_moveit_config_m1013) by extensions ['colcon_pkg']
+[0.194s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_moveit2/dsr_moveit_config_m1013) by extension 'colcon_pkg'
+[0.194s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_moveit2/dsr_moveit_config_m1013) by extensions ['colcon_meta']
+[0.194s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_moveit2/dsr_moveit_config_m1013) by extension 'colcon_meta'
+[0.194s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_moveit2/dsr_moveit_config_m1013) by extensions ['ros']
+[0.194s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_moveit2/dsr_moveit_config_m1013) by extension 'ros'
+[0.194s] DEBUG:colcon.colcon_core.package_identification:Package '/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_moveit2/dsr_moveit_config_m1013' with type 'ros.ament_cmake' and name 'dsr_moveit_config_m1013'
+[0.194s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_moveit2/dsr_moveit_config_m1509) by extensions ['ignore', 'ignore_ament_install']
+[0.194s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_moveit2/dsr_moveit_config_m1509) by extension 'ignore'
+[0.194s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_moveit2/dsr_moveit_config_m1509) by extension 'ignore_ament_install'
+[0.194s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_moveit2/dsr_moveit_config_m1509) by extensions ['colcon_pkg']
+[0.194s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_moveit2/dsr_moveit_config_m1509) by extension 'colcon_pkg'
+[0.194s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_moveit2/dsr_moveit_config_m1509) by extensions ['colcon_meta']
+[0.194s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_moveit2/dsr_moveit_config_m1509) by extension 'colcon_meta'
+[0.194s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_moveit2/dsr_moveit_config_m1509) by extensions ['ros']
+[0.194s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_moveit2/dsr_moveit_config_m1509) by extension 'ros'
+[0.194s] DEBUG:colcon.colcon_core.package_identification:Package '/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_moveit2/dsr_moveit_config_m1509' with type 'ros.ament_cmake' and name 'dsr_moveit_config_m1509'
+[0.194s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_moveit2/dsr_moveit_config_p3020) by extensions ['ignore', 'ignore_ament_install']
+[0.194s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_moveit2/dsr_moveit_config_p3020) by extension 'ignore'
+[0.194s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_moveit2/dsr_moveit_config_p3020) by extension 'ignore_ament_install'
+[0.195s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_moveit2/dsr_moveit_config_p3020) by extensions ['colcon_pkg']
+[0.195s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_moveit2/dsr_moveit_config_p3020) by extension 'colcon_pkg'
+[0.195s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_moveit2/dsr_moveit_config_p3020) by extensions ['colcon_meta']
+[0.195s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_moveit2/dsr_moveit_config_p3020) by extension 'colcon_meta'
+[0.195s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_moveit2/dsr_moveit_config_p3020) by extensions ['ros']
+[0.195s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_moveit2/dsr_moveit_config_p3020) by extension 'ros'
+[0.195s] DEBUG:colcon.colcon_core.package_identification:Package '/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_moveit2/dsr_moveit_config_p3020' with type 'ros.ament_cmake' and name 'dsr_moveit_config_p3020'
+[0.195s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_msgs2) by extensions ['ignore', 'ignore_ament_install']
+[0.195s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_msgs2) by extension 'ignore'
+[0.195s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_msgs2) by extension 'ignore_ament_install'
+[0.195s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_msgs2) by extensions ['colcon_pkg']
+[0.195s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_msgs2) by extension 'colcon_pkg'
+[0.195s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_msgs2) by extensions ['colcon_meta']
+[0.195s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_msgs2) by extension 'colcon_meta'
+[0.195s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_msgs2) by extensions ['ros']
+[0.195s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_msgs2) by extension 'ros'
+[0.195s] DEBUG:colcon.colcon_core.package_identification:Package '/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_msgs2' with type 'ros.ament_cmake' and name 'dsr_msgs2'
+[0.196s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_rokey) by extensions ['ignore', 'ignore_ament_install']
+[0.196s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_rokey) by extension 'ignore'
+[0.196s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_rokey) by extension 'ignore_ament_install'
+[0.196s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_rokey) by extensions ['colcon_pkg']
+[0.196s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_rokey) by extension 'colcon_pkg'
+[0.196s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_rokey) by extensions ['colcon_meta']
+[0.196s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_rokey) by extension 'colcon_meta'
+[0.196s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_rokey) by extensions ['ros']
+[0.196s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_rokey) by extension 'ros'
+[0.196s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_rokey) by extensions ['cmake', 'python']
+[0.196s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_rokey) by extension 'cmake'
+[0.196s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_rokey) by extension 'python'
+[0.196s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_rokey) by extensions ['python_setup_py']
+[0.196s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_rokey) by extension 'python_setup_py'
+[0.196s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_rokey/rokey) by extensions ['ignore', 'ignore_ament_install']
+[0.196s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_rokey/rokey) by extension 'ignore'
+[0.196s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_rokey/rokey) by extension 'ignore_ament_install'
+[0.196s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_rokey/rokey) by extensions ['colcon_pkg']
+[0.196s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_rokey/rokey) by extension 'colcon_pkg'
+[0.196s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_rokey/rokey) by extensions ['colcon_meta']
+[0.196s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_rokey/rokey) by extension 'colcon_meta'
+[0.196s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_rokey/rokey) by extensions ['ros']
+[0.196s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_rokey/rokey) by extension 'ros'
+[0.196s] DEBUG:colcon.colcon_core.package_identification:Package '/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_rokey/rokey' with type 'ros.ament_python' and name 'rokey'
+[0.196s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_tests) by extensions ['ignore', 'ignore_ament_install']
+[0.196s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_tests) by extension 'ignore'
+[0.196s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_tests) by extension 'ignore_ament_install'
+[0.196s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_tests) by extensions ['colcon_pkg']
+[0.196s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_tests) by extension 'colcon_pkg'
+[0.196s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_tests) by extensions ['colcon_meta']
+[0.196s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_tests) by extension 'colcon_meta'
+[0.197s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_tests) by extensions ['ros']
+[0.197s] Level 1:colcon.colcon_core.package_identification:_identify(/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_tests) by extension 'ros'
+[0.197s] DEBUG:colcon.colcon_core.package_identification:Package '/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_tests' with type 'ros.ament_python' and name 'dsr_tests'
+[0.197s] Level 1:colcon.colcon_core.package_discovery:discover_packages(recursive) using defaults

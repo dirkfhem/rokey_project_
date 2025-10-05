@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/home/minsuje/ros2_ws/build/custom_pkg_srv_test/rosidl_generator_py/custom_pkg_srv_test/custom_pkg_srv_test_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so" "TARGETS" "custom_pkg_srv_test__rosidl_typesupport_fastrtps_c__pyext" "DESTINATION" "local/lib/python3.10/dist-packages/custom_pkg_srv_test")

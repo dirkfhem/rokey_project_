@@ -1,0 +1,6 @@
+setup.py
+dsr_msgs2/__init__.py
+dsr_msgs2.egg-info/PKG-INFO
+dsr_msgs2.egg-info/SOURCES.txt
+dsr_msgs2.egg-info/dependency_links.txt
+dsr_msgs2.egg-info/top_level.txt

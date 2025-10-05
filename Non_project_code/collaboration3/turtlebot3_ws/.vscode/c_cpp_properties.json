@@ -1,0 +1,39 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/minsuje/turtlebot3_ws/install/turtlebot3_fake_node/include/**",
+        "/home/minsuje/turtlebot3_ws/install/turtlebot3_msgs/include/**",
+        "/home/minsuje/turtlebot3_ws/install/turtlebot3_gazebo/include/**",
+        "/home/minsuje/turtlebot3_ws/install/dynamixel_sdk_custom_interfaces/include/**",
+        "/home/minsuje/turtlebot3_ws/install/dynamixel_sdk/include/**",
+        "/home/minsuje/ros2_ws/install/my_interfaces/include/**",
+        "/home/minsuje/ros2_ws/install/dsr_realtime_control/include/**",
+        "/home/minsuje/ros2_ws/install/dsr_controller2/include/**",
+        "/home/minsuje/ros2_ws/install/dsr_msgs2/include/**",
+        "/home/minsuje/ros2_ws/install/dsr_hardware2/include/**",
+        "/home/minsuje/ros2_ws/install/custom_pkg_srv_test/include/**",
+        "/home/minsuje/ros2_ws/install/custom_msgs/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/minsuje/turtlebot3_ws/src/DynamixelSDK/ros/dynamixel_sdk/include/**",
+        "/home/minsuje/turtlebot3_ws/src/DynamixelSDK/ros/dynamixel_sdk_examples/include/**",
+        "/home/minsuje/turtlebot3_ws/src/turtlebot3/turtlebot3_node/include/**",
+        "/home/minsuje/turtlebot3_ws/src/turtlebot3_simulations/turtlebot3_fake_node/include/**",
+        "/home/minsuje/turtlebot3_ws/src/turtlebot3_simulations/turtlebot3_gazebo/include/**",
+        "/home/minsuje/turtlebot3_ws/ws_arm/src/arm_odom/include/**",
+        "/home/minsuje/turtlebot3_ws/ws_car/src/car_odom/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

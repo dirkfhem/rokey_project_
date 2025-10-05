@@ -1,0 +1,78 @@
+[0.902s] Invoking command in '/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_rokey/rokey': PYTHONPATH=/home/minsuje/ros2_ws/build/rokey/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/minsuje/ros2_ws/install/rokey/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../../build/rokey build --build-base /home/minsuje/ros2_ws/build/rokey/build install --record /home/minsuje/ros2_ws/build/rokey/install.log --single-version-externally-managed install_data
+[1.067s] running egg_info
+[1.067s] creating ../../../../build/rokey/rokey.egg-info
+[1.067s] writing ../../../../build/rokey/rokey.egg-info/PKG-INFO
+[1.067s] writing dependency_links to ../../../../build/rokey/rokey.egg-info/dependency_links.txt
+[1.067s] writing entry points to ../../../../build/rokey/rokey.egg-info/entry_points.txt
+[1.068s] writing requirements to ../../../../build/rokey/rokey.egg-info/requires.txt
+[1.068s] writing top-level names to ../../../../build/rokey/rokey.egg-info/top_level.txt
+[1.068s] writing manifest file '../../../../build/rokey/rokey.egg-info/SOURCES.txt'
+[1.069s] reading manifest file '../../../../build/rokey/rokey.egg-info/SOURCES.txt'
+[1.069s] writing manifest file '../../../../build/rokey/rokey.egg-info/SOURCES.txt'
+[1.069s] running build
+[1.069s] running build_py
+[1.069s] creating /home/minsuje/ros2_ws/build/rokey/build
+[1.069s] creating /home/minsuje/ros2_ws/build/rokey/build/lib
+[1.069s] creating /home/minsuje/ros2_ws/build/rokey/build/lib/rokey
+[1.069s] copying rokey/__init__.py -> /home/minsuje/ros2_ws/build/rokey/build/lib/rokey
+[1.069s] creating /home/minsuje/ros2_ws/build/rokey/build/lib/rokey/basic
+[1.069s] copying rokey/basic/get_current_pos.py -> /home/minsuje/ros2_ws/build/rokey/build/lib/rokey/basic
+[1.069s] copying rokey/basic/movesx_test.py -> /home/minsuje/ros2_ws/build/rokey/build/lib/rokey/basic
+[1.069s] copying rokey/basic/move_periodic.py -> /home/minsuje/ros2_ws/build/rokey/build/lib/rokey/basic
+[1.069s] copying rokey/basic/__init__.py -> /home/minsuje/ros2_ws/build/rokey/build/lib/rokey/basic
+[1.069s] copying rokey/basic/amove_test.py -> /home/minsuje/ros2_ws/build/rokey/build/lib/rokey/basic
+[1.069s] copying rokey/basic/jog_complete.py -> /home/minsuje/ros2_ws/build/rokey/build/lib/rokey/basic
+[1.069s] copying rokey/basic/data_recording.py -> /home/minsuje/ros2_ws/build/rokey/build/lib/rokey/basic
+[1.070s] copying rokey/basic/grip.py -> /home/minsuje/ros2_ws/build/rokey/build/lib/rokey/basic
+[1.070s] copying rokey/basic/getting_position.py -> /home/minsuje/ros2_ws/build/rokey/build/lib/rokey/basic
+[1.070s] copying rokey/basic/force_control.py -> /home/minsuje/ros2_ws/build/rokey/build/lib/rokey/basic
+[1.070s] copying rokey/basic/move.py -> /home/minsuje/ros2_ws/build/rokey/build/lib/rokey/basic
+[1.070s] running install
+[1.070s] running install_lib
+[1.070s] creating /home/minsuje/ros2_ws/install/rokey/lib/python3.10/site-packages/rokey
+[1.070s] copying /home/minsuje/ros2_ws/build/rokey/build/lib/rokey/__init__.py -> /home/minsuje/ros2_ws/install/rokey/lib/python3.10/site-packages/rokey
+[1.070s] creating /home/minsuje/ros2_ws/install/rokey/lib/python3.10/site-packages/rokey/basic
+[1.071s] copying /home/minsuje/ros2_ws/build/rokey/build/lib/rokey/basic/get_current_pos.py -> /home/minsuje/ros2_ws/install/rokey/lib/python3.10/site-packages/rokey/basic
+[1.071s] copying /home/minsuje/ros2_ws/build/rokey/build/lib/rokey/basic/movesx_test.py -> /home/minsuje/ros2_ws/install/rokey/lib/python3.10/site-packages/rokey/basic
+[1.071s] copying /home/minsuje/ros2_ws/build/rokey/build/lib/rokey/basic/move_periodic.py -> /home/minsuje/ros2_ws/install/rokey/lib/python3.10/site-packages/rokey/basic
+[1.071s] copying /home/minsuje/ros2_ws/build/rokey/build/lib/rokey/basic/__init__.py -> /home/minsuje/ros2_ws/install/rokey/lib/python3.10/site-packages/rokey/basic
+[1.071s] copying /home/minsuje/ros2_ws/build/rokey/build/lib/rokey/basic/amove_test.py -> /home/minsuje/ros2_ws/install/rokey/lib/python3.10/site-packages/rokey/basic
+[1.071s] copying /home/minsuje/ros2_ws/build/rokey/build/lib/rokey/basic/jog_complete.py -> /home/minsuje/ros2_ws/install/rokey/lib/python3.10/site-packages/rokey/basic
+[1.071s] copying /home/minsuje/ros2_ws/build/rokey/build/lib/rokey/basic/data_recording.py -> /home/minsuje/ros2_ws/install/rokey/lib/python3.10/site-packages/rokey/basic
+[1.071s] copying /home/minsuje/ros2_ws/build/rokey/build/lib/rokey/basic/grip.py -> /home/minsuje/ros2_ws/install/rokey/lib/python3.10/site-packages/rokey/basic
+[1.071s] copying /home/minsuje/ros2_ws/build/rokey/build/lib/rokey/basic/getting_position.py -> /home/minsuje/ros2_ws/install/rokey/lib/python3.10/site-packages/rokey/basic
+[1.071s] copying /home/minsuje/ros2_ws/build/rokey/build/lib/rokey/basic/force_control.py -> /home/minsuje/ros2_ws/install/rokey/lib/python3.10/site-packages/rokey/basic
+[1.071s] copying /home/minsuje/ros2_ws/build/rokey/build/lib/rokey/basic/move.py -> /home/minsuje/ros2_ws/install/rokey/lib/python3.10/site-packages/rokey/basic
+[1.071s] byte-compiling /home/minsuje/ros2_ws/install/rokey/lib/python3.10/site-packages/rokey/__init__.py to __init__.cpython-310.pyc
+[1.071s] byte-compiling /home/minsuje/ros2_ws/install/rokey/lib/python3.10/site-packages/rokey/basic/get_current_pos.py to get_current_pos.cpython-310.pyc
+[1.071s] byte-compiling /home/minsuje/ros2_ws/install/rokey/lib/python3.10/site-packages/rokey/basic/movesx_test.py to movesx_test.cpython-310.pyc
+[1.072s] byte-compiling /home/minsuje/ros2_ws/install/rokey/lib/python3.10/site-packages/rokey/basic/move_periodic.py to move_periodic.cpython-310.pyc
+[1.072s] byte-compiling /home/minsuje/ros2_ws/install/rokey/lib/python3.10/site-packages/rokey/basic/__init__.py to __init__.cpython-310.pyc
+[1.072s] byte-compiling /home/minsuje/ros2_ws/install/rokey/lib/python3.10/site-packages/rokey/basic/amove_test.py to amove_test.cpython-310.pyc
+[1.072s] byte-compiling /home/minsuje/ros2_ws/install/rokey/lib/python3.10/site-packages/rokey/basic/jog_complete.py to jog_complete.cpython-310.pyc
+[1.074s] byte-compiling /home/minsuje/ros2_ws/install/rokey/lib/python3.10/site-packages/rokey/basic/data_recording.py to data_recording.cpython-310.pyc
+[1.074s] byte-compiling /home/minsuje/ros2_ws/install/rokey/lib/python3.10/site-packages/rokey/basic/grip.py to grip.cpython-310.pyc
+[1.074s] byte-compiling /home/minsuje/ros2_ws/install/rokey/lib/python3.10/site-packages/rokey/basic/getting_position.py to getting_position.cpython-310.pyc
+[1.074s] byte-compiling /home/minsuje/ros2_ws/install/rokey/lib/python3.10/site-packages/rokey/basic/force_control.py to force_control.cpython-310.pyc
+[1.074s] byte-compiling /home/minsuje/ros2_ws/install/rokey/lib/python3.10/site-packages/rokey/basic/move.py to move.cpython-310.pyc
+[1.075s] running install_data
+[1.075s] creating /home/minsuje/ros2_ws/install/rokey/share/ament_index
+[1.075s] creating /home/minsuje/ros2_ws/install/rokey/share/ament_index/resource_index
+[1.075s] creating /home/minsuje/ros2_ws/install/rokey/share/ament_index/resource_index/packages
+[1.075s] copying resource/rokey -> /home/minsuje/ros2_ws/install/rokey/share/ament_index/resource_index/packages
+[1.075s] copying package.xml -> /home/minsuje/ros2_ws/install/rokey/share/rokey
+[1.075s] running install_egg_info
+[1.076s] Copying ../../../../build/rokey/rokey.egg-info to /home/minsuje/ros2_ws/install/rokey/lib/python3.10/site-packages/rokey-0.0.0-py3.10.egg-info
+[1.076s] running install_scripts
+[1.088s] Installing data_recording script to /home/minsuje/ros2_ws/install/rokey/lib/rokey
+[1.088s] Installing force_control script to /home/minsuje/ros2_ws/install/rokey/lib/rokey
+[1.088s] Installing get_current_pos script to /home/minsuje/ros2_ws/install/rokey/lib/rokey
+[1.088s] Installing getting_position script to /home/minsuje/ros2_ws/install/rokey/lib/rokey
+[1.088s] Installing grip script to /home/minsuje/ros2_ws/install/rokey/lib/rokey
+[1.088s] Installing jog script to /home/minsuje/ros2_ws/install/rokey/lib/rokey
+[1.088s] Installing move_periodic script to /home/minsuje/ros2_ws/install/rokey/lib/rokey
+[1.088s] Installing simple_amove script to /home/minsuje/ros2_ws/install/rokey/lib/rokey
+[1.088s] Installing simple_move script to /home/minsuje/ros2_ws/install/rokey/lib/rokey
+[1.088s] Installing simple_movesx script to /home/minsuje/ros2_ws/install/rokey/lib/rokey
+[1.088s] writing list of installed files to '/home/minsuje/ros2_ws/build/rokey/install.log'
+[1.103s] Invoked command in '/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_rokey/rokey' returned '0': PYTHONPATH=/home/minsuje/ros2_ws/build/rokey/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/minsuje/ros2_ws/install/rokey/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../../build/rokey build --build-base /home/minsuje/ros2_ws/build/rokey/build install --record /home/minsuje/ros2_ws/build/rokey/install.log --single-version-externally-managed install_data

@@ -1,0 +1,1 @@
+/home/minsuje/turtlebot3_ws/build/open_manipulator/ament_cmake_core/open_manipulatorConfig.cmake

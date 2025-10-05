@@ -1,0 +1,14 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from custom_msgs/msg/OrderInfo.msg
+// generated code does not contain a copyright notice
+
+
+module custom_msgs {
+  module msg {
+    struct OrderInfo {
+      sequence<string> brands;
+
+      sequence<int32> counts;
+    };
+  };
+};

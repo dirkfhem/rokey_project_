@@ -1,0 +1,4 @@
+[console_scripts]
+fake_driver = car_tutorial.fake_driver:main
+fake_driver_cv2 = car_tutorial.fake_driver_cv2:main
+

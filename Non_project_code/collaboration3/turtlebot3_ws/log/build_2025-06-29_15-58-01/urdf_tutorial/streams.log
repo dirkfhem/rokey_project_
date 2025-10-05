@@ -1,0 +1,60 @@
+[2.505s] Invoking command in '/home/minsuje/turtlebot3_ws/build/urdf_tutorial': PYTHONPATH=/home/minsuje/turtlebot3_ws/build/urdf_tutorial/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/minsuje/turtlebot3_ws/install/urdf_tutorial/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/minsuje/turtlebot3_ws/build/urdf_tutorial/build --no-deps symlink_data
+[3.271s] running develop
+[3.271s] running egg_info
+[3.271s] creating urdf_tutorial.egg-info
+[3.271s] writing urdf_tutorial.egg-info/PKG-INFO
+[3.271s] writing dependency_links to urdf_tutorial.egg-info/dependency_links.txt
+[3.271s] writing entry points to urdf_tutorial.egg-info/entry_points.txt
+[3.271s] writing requirements to urdf_tutorial.egg-info/requires.txt
+[3.271s] writing top-level names to urdf_tutorial.egg-info/top_level.txt
+[3.272s] writing manifest file 'urdf_tutorial.egg-info/SOURCES.txt'
+[3.272s] reading manifest file 'urdf_tutorial.egg-info/SOURCES.txt'
+[3.272s] writing manifest file 'urdf_tutorial.egg-info/SOURCES.txt'
+[3.277s] running build_ext
+[3.277s] Creating /home/minsuje/turtlebot3_ws/install/urdf_tutorial/lib/python3.10/site-packages/urdf-tutorial.egg-link (link to .)
+[3.277s] 
+[3.277s] Installed /home/minsuje/turtlebot3_ws/build/urdf_tutorial
+[3.278s] running symlink_data
+[3.280s] creating /home/minsuje/turtlebot3_ws/install/urdf_tutorial/share/ament_index
+[3.280s] creating /home/minsuje/turtlebot3_ws/install/urdf_tutorial/share/ament_index/resource_index
+[3.280s] creating /home/minsuje/turtlebot3_ws/install/urdf_tutorial/share/ament_index/resource_index/packages
+[3.280s] symbolically linking /home/minsuje/turtlebot3_ws/build/urdf_tutorial/resource/urdf_tutorial -> /home/minsuje/turtlebot3_ws/install/urdf_tutorial/share/ament_index/resource_index/packages
+[3.281s] symbolically linking /home/minsuje/turtlebot3_ws/build/urdf_tutorial/package.xml -> /home/minsuje/turtlebot3_ws/install/urdf_tutorial/share/urdf_tutorial
+[3.281s] creating /home/minsuje/turtlebot3_ws/install/urdf_tutorial/share/urdf_tutorial/launch
+[3.281s] symbolically linking /home/minsuje/turtlebot3_ws/build/urdf_tutorial/launch/gazebo_load_world.launch.py -> /home/minsuje/turtlebot3_ws/install/urdf_tutorial/share/urdf_tutorial/launch
+[3.281s] symbolically linking /home/minsuje/turtlebot3_ws/build/urdf_tutorial/launch/model.launch.py -> /home/minsuje/turtlebot3_ws/install/urdf_tutorial/share/urdf_tutorial/launch
+[3.281s] symbolically linking /home/minsuje/turtlebot3_ws/build/urdf_tutorial/launch/robot_with_mesh.launch.py -> /home/minsuje/turtlebot3_ws/install/urdf_tutorial/share/urdf_tutorial/launch
+[3.281s] symbolically linking /home/minsuje/turtlebot3_ws/build/urdf_tutorial/launch/robot_2.launch.py -> /home/minsuje/turtlebot3_ws/install/urdf_tutorial/share/urdf_tutorial/launch
+[3.281s] symbolically linking /home/minsuje/turtlebot3_ws/build/urdf_tutorial/launch/launch_sim.launch.py -> /home/minsuje/turtlebot3_ws/install/urdf_tutorial/share/urdf_tutorial/launch
+[3.281s] symbolically linking /home/minsuje/turtlebot3_ws/build/urdf_tutorial/launch/robot_4.launch.py -> /home/minsuje/turtlebot3_ws/install/urdf_tutorial/share/urdf_tutorial/launch
+[3.281s] symbolically linking /home/minsuje/turtlebot3_ws/build/urdf_tutorial/launch/lidar.launch.py -> /home/minsuje/turtlebot3_ws/install/urdf_tutorial/share/urdf_tutorial/launch
+[3.281s] symbolically linking /home/minsuje/turtlebot3_ws/build/urdf_tutorial/launch/sim.launch.py -> /home/minsuje/turtlebot3_ws/install/urdf_tutorial/share/urdf_tutorial/launch
+[3.281s] symbolically linking /home/minsuje/turtlebot3_ws/build/urdf_tutorial/launch/robot_2_rviz2.launch.py -> /home/minsuje/turtlebot3_ws/install/urdf_tutorial/share/urdf_tutorial/launch
+[3.281s] symbolically linking /home/minsuje/turtlebot3_ws/build/urdf_tutorial/launch/rsp.launch.py -> /home/minsuje/turtlebot3_ws/install/urdf_tutorial/share/urdf_tutorial/launch
+[3.281s] symbolically linking /home/minsuje/turtlebot3_ws/build/urdf_tutorial/launch/robot_3.launch.py -> /home/minsuje/turtlebot3_ws/install/urdf_tutorial/share/urdf_tutorial/launch
+[3.281s] symbolically linking /home/minsuje/turtlebot3_ws/build/urdf_tutorial/launch/robot_1.launch.py -> /home/minsuje/turtlebot3_ws/install/urdf_tutorial/share/urdf_tutorial/launch
+[3.281s] creating /home/minsuje/turtlebot3_ws/install/urdf_tutorial/share/urdf_tutorial/urdf
+[3.282s] symbolically linking /home/minsuje/turtlebot3_ws/build/urdf_tutorial/urdf/inertial_macros.xacro -> /home/minsuje/turtlebot3_ws/install/urdf_tutorial/share/urdf_tutorial/urdf
+[3.282s] symbolically linking /home/minsuje/turtlebot3_ws/build/urdf_tutorial/urdf/gazebo.xacro -> /home/minsuje/turtlebot3_ws/install/urdf_tutorial/share/urdf_tutorial/urdf
+[3.282s] symbolically linking /home/minsuje/turtlebot3_ws/build/urdf_tutorial/urdf/robot_with_mesh.xacro -> /home/minsuje/turtlebot3_ws/install/urdf_tutorial/share/urdf_tutorial/urdf
+[3.282s] symbolically linking /home/minsuje/turtlebot3_ws/build/urdf_tutorial/urdf/robot_2.second.xacro -> /home/minsuje/turtlebot3_ws/install/urdf_tutorial/share/urdf_tutorial/urdf
+[3.282s] symbolically linking /home/minsuje/turtlebot3_ws/build/urdf_tutorial/urdf/robot_core_hr.xacro -> /home/minsuje/turtlebot3_ws/install/urdf_tutorial/share/urdf_tutorial/urdf
+[3.282s] symbolically linking /home/minsuje/turtlebot3_ws/build/urdf_tutorial/urdf/robot_2.third.xacro -> /home/minsuje/turtlebot3_ws/install/urdf_tutorial/share/urdf_tutorial/urdf
+[3.282s] symbolically linking /home/minsuje/turtlebot3_ws/build/urdf_tutorial/urdf/gazebo_control.xacro -> /home/minsuje/turtlebot3_ws/install/urdf_tutorial/share/urdf_tutorial/urdf
+[3.282s] symbolically linking /home/minsuje/turtlebot3_ws/build/urdf_tutorial/urdf/macros.xacro -> /home/minsuje/turtlebot3_ws/install/urdf_tutorial/share/urdf_tutorial/urdf
+[3.282s] symbolically linking /home/minsuje/turtlebot3_ws/build/urdf_tutorial/urdf/robot_2.xacro -> /home/minsuje/turtlebot3_ws/install/urdf_tutorial/share/urdf_tutorial/urdf
+[3.282s] symbolically linking /home/minsuje/turtlebot3_ws/build/urdf_tutorial/urdf/robot_3.xacro -> /home/minsuje/turtlebot3_ws/install/urdf_tutorial/share/urdf_tutorial/urdf
+[3.282s] symbolically linking /home/minsuje/turtlebot3_ws/build/urdf_tutorial/urdf/robot.urdf.xacro -> /home/minsuje/turtlebot3_ws/install/urdf_tutorial/share/urdf_tutorial/urdf
+[3.282s] symbolically linking /home/minsuje/turtlebot3_ws/build/urdf_tutorial/urdf/robot_core_lr.xacro -> /home/minsuje/turtlebot3_ws/install/urdf_tutorial/share/urdf_tutorial/urdf
+[3.282s] symbolically linking /home/minsuje/turtlebot3_ws/build/urdf_tutorial/urdf/lidar.xacro -> /home/minsuje/turtlebot3_ws/install/urdf_tutorial/share/urdf_tutorial/urdf
+[3.282s] symbolically linking /home/minsuje/turtlebot3_ws/build/urdf_tutorial/urdf/robot_4.xacro -> /home/minsuje/turtlebot3_ws/install/urdf_tutorial/share/urdf_tutorial/urdf
+[3.282s] symbolically linking /home/minsuje/turtlebot3_ws/build/urdf_tutorial/urdf/robot_2.first.xacro -> /home/minsuje/turtlebot3_ws/install/urdf_tutorial/share/urdf_tutorial/urdf
+[3.282s] symbolically linking /home/minsuje/turtlebot3_ws/build/urdf_tutorial/urdf/robot_1.xacro -> /home/minsuje/turtlebot3_ws/install/urdf_tutorial/share/urdf_tutorial/urdf
+[3.282s] symbolically linking /home/minsuje/turtlebot3_ws/build/urdf_tutorial/urdf/model.sdf -> /home/minsuje/turtlebot3_ws/install/urdf_tutorial/share/urdf_tutorial/urdf
+[3.282s] creating /home/minsuje/turtlebot3_ws/install/urdf_tutorial/share/urdf_tutorial/worlds
+[3.283s] symbolically linking /home/minsuje/turtlebot3_ws/build/urdf_tutorial/worlds/first.world -> /home/minsuje/turtlebot3_ws/install/urdf_tutorial/share/urdf_tutorial/worlds
+[3.283s] symbolically linking /home/minsuje/turtlebot3_ws/build/urdf_tutorial/worlds/empty.world -> /home/minsuje/turtlebot3_ws/install/urdf_tutorial/share/urdf_tutorial/worlds
+[3.283s] creating /home/minsuje/turtlebot3_ws/install/urdf_tutorial/share/urdf_tutorial/meshes
+[3.283s] symbolically linking /home/minsuje/turtlebot3_ws/build/urdf_tutorial/meshes/cylinder.stl -> /home/minsuje/turtlebot3_ws/install/urdf_tutorial/share/urdf_tutorial/meshes
+[3.283s] symbolically linking /home/minsuje/turtlebot3_ws/build/urdf_tutorial/meshes/wheel1.stl -> /home/minsuje/turtlebot3_ws/install/urdf_tutorial/share/urdf_tutorial/meshes
+[3.355s] Invoked command in '/home/minsuje/turtlebot3_ws/build/urdf_tutorial' returned '0': PYTHONPATH=/home/minsuje/turtlebot3_ws/build/urdf_tutorial/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/minsuje/turtlebot3_ws/install/urdf_tutorial/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/minsuje/turtlebot3_ws/build/urdf_tutorial/build --no-deps symlink_data

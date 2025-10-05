@@ -1,0 +1,70 @@
+[0.908s] Invoking command in '/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_example2/dsr_visualservoing': PYTHONPATH=/home/minsuje/ros2_ws/build/dsr_visualservoing/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/minsuje/ros2_ws/install/dsr_visualservoing/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../../build/dsr_visualservoing build --build-base /home/minsuje/ros2_ws/build/dsr_visualservoing/build install --record /home/minsuje/ros2_ws/build/dsr_visualservoing/install.log --single-version-externally-managed install_data
+[1.067s] running egg_info
+[1.067s] creating ../../../../build/dsr_visualservoing/dsr_visualservoing.egg-info
+[1.067s] writing ../../../../build/dsr_visualservoing/dsr_visualservoing.egg-info/PKG-INFO
+[1.068s] writing dependency_links to ../../../../build/dsr_visualservoing/dsr_visualservoing.egg-info/dependency_links.txt
+[1.068s] writing entry points to ../../../../build/dsr_visualservoing/dsr_visualservoing.egg-info/entry_points.txt
+[1.068s] writing requirements to ../../../../build/dsr_visualservoing/dsr_visualservoing.egg-info/requires.txt
+[1.068s] writing top-level names to ../../../../build/dsr_visualservoing/dsr_visualservoing.egg-info/top_level.txt
+[1.068s] writing manifest file '../../../../build/dsr_visualservoing/dsr_visualservoing.egg-info/SOURCES.txt'
+[1.069s] reading manifest file '../../../../build/dsr_visualservoing/dsr_visualservoing.egg-info/SOURCES.txt'
+[1.069s] writing manifest file '../../../../build/dsr_visualservoing/dsr_visualservoing.egg-info/SOURCES.txt'
+[1.069s] running build
+[1.069s] running build_py
+[1.070s] creating /home/minsuje/ros2_ws/build/dsr_visualservoing/build
+[1.070s] creating /home/minsuje/ros2_ws/build/dsr_visualservoing/build/lib
+[1.070s] creating /home/minsuje/ros2_ws/build/dsr_visualservoing/build/lib/dsr_visualservoing
+[1.070s] copying dsr_visualservoing/camera_publisher.py -> /home/minsuje/ros2_ws/build/dsr_visualservoing/build/lib/dsr_visualservoing
+[1.070s] copying dsr_visualservoing/send_pose_servol_gz.py -> /home/minsuje/ros2_ws/build/dsr_visualservoing/build/lib/dsr_visualservoing
+[1.070s] copying dsr_visualservoing/__init__.py -> /home/minsuje/ros2_ws/build/dsr_visualservoing/build/lib/dsr_visualservoing
+[1.070s] copying dsr_visualservoing/detect_marker_gz.py -> /home/minsuje/ros2_ws/build/dsr_visualservoing/build/lib/dsr_visualservoing
+[1.070s] copying dsr_visualservoing/joint90.py -> /home/minsuje/ros2_ws/build/dsr_visualservoing/build/lib/dsr_visualservoing
+[1.070s] running install
+[1.071s] running install_lib
+[1.071s] creating /home/minsuje/ros2_ws/install/dsr_visualservoing/lib/python3.10/site-packages/dsr_visualservoing
+[1.071s] copying /home/minsuje/ros2_ws/build/dsr_visualservoing/build/lib/dsr_visualservoing/camera_publisher.py -> /home/minsuje/ros2_ws/install/dsr_visualservoing/lib/python3.10/site-packages/dsr_visualservoing
+[1.071s] copying /home/minsuje/ros2_ws/build/dsr_visualservoing/build/lib/dsr_visualservoing/send_pose_servol_gz.py -> /home/minsuje/ros2_ws/install/dsr_visualservoing/lib/python3.10/site-packages/dsr_visualservoing
+[1.071s] copying /home/minsuje/ros2_ws/build/dsr_visualservoing/build/lib/dsr_visualservoing/__init__.py -> /home/minsuje/ros2_ws/install/dsr_visualservoing/lib/python3.10/site-packages/dsr_visualservoing
+[1.071s] copying /home/minsuje/ros2_ws/build/dsr_visualservoing/build/lib/dsr_visualservoing/detect_marker_gz.py -> /home/minsuje/ros2_ws/install/dsr_visualservoing/lib/python3.10/site-packages/dsr_visualservoing
+[1.071s] copying /home/minsuje/ros2_ws/build/dsr_visualservoing/build/lib/dsr_visualservoing/joint90.py -> /home/minsuje/ros2_ws/install/dsr_visualservoing/lib/python3.10/site-packages/dsr_visualservoing
+[1.071s] byte-compiling /home/minsuje/ros2_ws/install/dsr_visualservoing/lib/python3.10/site-packages/dsr_visualservoing/camera_publisher.py to camera_publisher.cpython-310.pyc
+[1.071s] byte-compiling /home/minsuje/ros2_ws/install/dsr_visualservoing/lib/python3.10/site-packages/dsr_visualservoing/send_pose_servol_gz.py to send_pose_servol_gz.cpython-310.pyc
+[1.071s] byte-compiling /home/minsuje/ros2_ws/install/dsr_visualservoing/lib/python3.10/site-packages/dsr_visualservoing/__init__.py to __init__.cpython-310.pyc
+[1.071s] byte-compiling /home/minsuje/ros2_ws/install/dsr_visualservoing/lib/python3.10/site-packages/dsr_visualservoing/detect_marker_gz.py to detect_marker_gz.cpython-310.pyc
+[1.072s] byte-compiling /home/minsuje/ros2_ws/install/dsr_visualservoing/lib/python3.10/site-packages/dsr_visualservoing/joint90.py to joint90.cpython-310.pyc
+[1.073s] running install_data
+[1.073s] creating /home/minsuje/ros2_ws/install/dsr_visualservoing/share/ament_index
+[1.073s] creating /home/minsuje/ros2_ws/install/dsr_visualservoing/share/ament_index/resource_index
+[1.073s] creating /home/minsuje/ros2_ws/install/dsr_visualservoing/share/ament_index/resource_index/packages
+[1.073s] copying resource/dsr_visualservoing -> /home/minsuje/ros2_ws/install/dsr_visualservoing/share/ament_index/resource_index/packages
+[1.073s] copying package.xml -> /home/minsuje/ros2_ws/install/dsr_visualservoing/share/dsr_visualservoing
+[1.073s] creating /home/minsuje/ros2_ws/install/dsr_visualservoing/share/dsr_visualservoing/launch
+[1.073s] copying launch/dsr_gazebo_visual_servoing.launch.py -> /home/minsuje/ros2_ws/install/dsr_visualservoing/share/dsr_visualservoing/launch
+[1.073s] copying launch/camera_calibration.launch.py -> /home/minsuje/ros2_ws/install/dsr_visualservoing/share/dsr_visualservoing/launch
+[1.074s] copying launch/visual_servoing_gz.launch.py -> /home/minsuje/ros2_ws/install/dsr_visualservoing/share/dsr_visualservoing/launch
+[1.074s] copying launch/rgbd_camera.launch.py -> /home/minsuje/ros2_ws/install/dsr_visualservoing/share/dsr_visualservoing/launch
+[1.074s] copying launch/dsr_bringup2_visual_servoing_gazebo.launch.py -> /home/minsuje/ros2_ws/install/dsr_visualservoing/share/dsr_visualservoing/launch
+[1.074s] creating /home/minsuje/ros2_ws/install/dsr_visualservoing/share/dsr_visualservoing/config
+[1.074s] copying config/real_camera.yaml -> /home/minsuje/ros2_ws/install/dsr_visualservoing/share/dsr_visualservoing/config
+[1.074s] copying config/rgbd_camera_gz.yaml -> /home/minsuje/ros2_ws/install/dsr_visualservoing/share/dsr_visualservoing/config
+[1.074s] creating /home/minsuje/ros2_ws/install/dsr_visualservoing/share/dsr_visualservoing/description
+[1.074s] copying description/camera_calibration.sdf -> /home/minsuje/ros2_ws/install/dsr_visualservoing/share/dsr_visualservoing/description
+[1.074s] copying description/markerbox2.sdf -> /home/minsuje/ros2_ws/install/dsr_visualservoing/share/dsr_visualservoing/description
+[1.074s] copying description/visual_servoing.sdf -> /home/minsuje/ros2_ws/install/dsr_visualservoing/share/dsr_visualservoing/description
+[1.074s] copying description/checker_board.sdf -> /home/minsuje/ros2_ws/install/dsr_visualservoing/share/dsr_visualservoing/description
+[1.074s] copying description/markerbox1.sdf -> /home/minsuje/ros2_ws/install/dsr_visualservoing/share/dsr_visualservoing/description
+[1.074s] copying description/markerbox3.sdf -> /home/minsuje/ros2_ws/install/dsr_visualservoing/share/dsr_visualservoing/description
+[1.074s] creating /home/minsuje/ros2_ws/install/dsr_visualservoing/share/dsr_visualservoing/description/textures
+[1.074s] copying description/textures/4x4_1000-1_115.png -> /home/minsuje/ros2_ws/install/dsr_visualservoing/share/dsr_visualservoing/description/textures
+[1.074s] copying description/textures/4x4_1000-3_115.png -> /home/minsuje/ros2_ws/install/dsr_visualservoing/share/dsr_visualservoing/description/textures
+[1.074s] copying description/textures/4x4_1000-2_115.png -> /home/minsuje/ros2_ws/install/dsr_visualservoing/share/dsr_visualservoing/description/textures
+[1.074s] copying description/textures/4x4_1000-0.png -> /home/minsuje/ros2_ws/install/dsr_visualservoing/share/dsr_visualservoing/description/textures
+[1.074s] running install_egg_info
+[1.074s] Copying ../../../../build/dsr_visualservoing/dsr_visualservoing.egg-info to /home/minsuje/ros2_ws/install/dsr_visualservoing/lib/python3.10/site-packages/dsr_visualservoing-0.0.0-py3.10.egg-info
+[1.075s] running install_scripts
+[1.086s] Installing camera_publisher script to /home/minsuje/ros2_ws/install/dsr_visualservoing/lib/dsr_visualservoing
+[1.086s] Installing detect_marker_gz script to /home/minsuje/ros2_ws/install/dsr_visualservoing/lib/dsr_visualservoing
+[1.086s] Installing joint90 script to /home/minsuje/ros2_ws/install/dsr_visualservoing/lib/dsr_visualservoing
+[1.086s] Installing send_pose_servol_gz script to /home/minsuje/ros2_ws/install/dsr_visualservoing/lib/dsr_visualservoing
+[1.086s] writing list of installed files to '/home/minsuje/ros2_ws/build/dsr_visualservoing/install.log'
+[1.102s] Invoked command in '/home/minsuje/ros2_ws/src/DoosanBootcamInt1/dsr_example2/dsr_visualservoing' returned '0': PYTHONPATH=/home/minsuje/ros2_ws/build/dsr_visualservoing/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/minsuje/ros2_ws/install/dsr_visualservoing/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../../build/dsr_visualservoing build --build-base /home/minsuje/ros2_ws/build/dsr_visualservoing/build install --record /home/minsuje/ros2_ws/build/dsr_visualservoing/install.log --single-version-externally-managed install_data

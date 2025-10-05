@@ -1,0 +1,57 @@
+[0.035s] Invoking command in '/home/minsuje/ros2_ws/build/dsr_moveit_config_m1509': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/minsuje/ros2_ws/src/DoosanBootcamp3rd/dsr_moveit2/dsr_moveit_config_m1509 -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/minsuje/ros2_ws/install/dsr_moveit_config_m1509
+[1.227s] -- The C compiler identification is GNU 11.4.0
+[1.227s] -- The CXX compiler identification is GNU 11.4.0
+[1.227s] -- Detecting C compiler ABI info
+[1.227s] -- Detecting C compiler ABI info - done
+[1.227s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.227s] -- Detecting C compile features
+[1.227s] -- Detecting C compile features - done
+[1.227s] -- Detecting CXX compiler ABI info
+[1.227s] -- Detecting CXX compiler ABI info - done
+[1.227s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.227s] -- Detecting CXX compile features
+[1.227s] -- Detecting CXX compile features - done
+[1.227s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.227s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[1.227s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.227s] -- Configuring done
+[1.227s] -- Generating done
+[1.227s] -- Build files have been written to: /home/minsuje/ros2_ws/build/dsr_moveit_config_m1509
+[1.539s] Invoked command in '/home/minsuje/ros2_ws/build/dsr_moveit_config_m1509' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/minsuje/ros2_ws/src/DoosanBootcamp3rd/dsr_moveit2/dsr_moveit_config_m1509 -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/minsuje/ros2_ws/install/dsr_moveit_config_m1509
+[1.540s] Invoking command in '/home/minsuje/ros2_ws/build/dsr_moveit_config_m1509': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/minsuje/ros2_ws/build/dsr_moveit_config_m1509 -- -j32 -l32
+[1.600s] Invoked command in '/home/minsuje/ros2_ws/build/dsr_moveit_config_m1509' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/minsuje/ros2_ws/build/dsr_moveit_config_m1509 -- -j32 -l32
+[1.602s] Invoking command in '/home/minsuje/ros2_ws/build/dsr_moveit_config_m1509': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/minsuje/ros2_ws/build/dsr_moveit_config_m1509
+[1.620s] -- Install configuration: ""
+[1.621s] -- Execute custom install script
+[1.621s] -- Symlinking: /home/minsuje/ros2_ws/install/dsr_moveit_config_m1509/share/ament_index/resource_index/package_run_dependencies/dsr_moveit_config_m1509
+[1.621s] -- Symlinking: /home/minsuje/ros2_ws/install/dsr_moveit_config_m1509/share/ament_index/resource_index/parent_prefix_path/dsr_moveit_config_m1509
+[1.628s] -- Symlinking: /home/minsuje/ros2_ws/install/dsr_moveit_config_m1509/share/dsr_moveit_config_m1509/environment/ament_prefix_path.sh
+[1.637s] -- Symlinking: /home/minsuje/ros2_ws/install/dsr_moveit_config_m1509/share/dsr_moveit_config_m1509/environment/ament_prefix_path.dsv
+[1.645s] -- Symlinking: /home/minsuje/ros2_ws/install/dsr_moveit_config_m1509/share/dsr_moveit_config_m1509/environment/path.sh
+[1.655s] -- Symlinking: /home/minsuje/ros2_ws/install/dsr_moveit_config_m1509/share/dsr_moveit_config_m1509/environment/path.dsv
+[1.665s] -- Symlinking: /home/minsuje/ros2_ws/install/dsr_moveit_config_m1509/share/dsr_moveit_config_m1509/local_setup.bash
+[1.675s] -- Symlinking: /home/minsuje/ros2_ws/install/dsr_moveit_config_m1509/share/dsr_moveit_config_m1509/local_setup.sh
+[1.683s] -- Symlinking: /home/minsuje/ros2_ws/install/dsr_moveit_config_m1509/share/dsr_moveit_config_m1509/local_setup.zsh
+[1.694s] -- Symlinking: /home/minsuje/ros2_ws/install/dsr_moveit_config_m1509/share/dsr_moveit_config_m1509/local_setup.dsv
+[1.706s] -- Symlinking: /home/minsuje/ros2_ws/install/dsr_moveit_config_m1509/share/dsr_moveit_config_m1509/package.dsv
+[1.718s] -- Symlinking: /home/minsuje/ros2_ws/install/dsr_moveit_config_m1509/share/ament_index/resource_index/packages/dsr_moveit_config_m1509
+[1.728s] -- Symlinking: /home/minsuje/ros2_ws/install/dsr_moveit_config_m1509/share/dsr_moveit_config_m1509/cmake/dsr_moveit_config_m1509Config.cmake
+[1.740s] -- Symlinking: /home/minsuje/ros2_ws/install/dsr_moveit_config_m1509/share/dsr_moveit_config_m1509/cmake/dsr_moveit_config_m1509Config-version.cmake
+[1.749s] -- Symlinking: /home/minsuje/ros2_ws/install/dsr_moveit_config_m1509/share/dsr_moveit_config_m1509/package.xml
+[1.764s] -- Symlinking: /home/minsuje/ros2_ws/install/dsr_moveit_config_m1509/share/dsr_moveit_config_m1509/launch/demo.launch.py
+[1.768s] -- Symlinking: /home/minsuje/ros2_ws/install/dsr_moveit_config_m1509/share/dsr_moveit_config_m1509/launch/moveit.rviz
+[1.778s] -- Symlinking: /home/minsuje/ros2_ws/install/dsr_moveit_config_m1509/share/dsr_moveit_config_m1509/launch/start.launch.py
+[1.790s] -- Symlinking: /home/minsuje/ros2_ws/install/dsr_moveit_config_m1509/share/dsr_moveit_config_m1509/config/chomp_planning.yaml
+[1.799s] -- Symlinking: /home/minsuje/ros2_ws/install/dsr_moveit_config_m1509/share/dsr_moveit_config_m1509/config/dsr.ros2_control.xacro
+[1.807s] -- Symlinking: /home/minsuje/ros2_ws/install/dsr_moveit_config_m1509/share/dsr_moveit_config_m1509/config/dsr.srdf
+[1.817s] -- Symlinking: /home/minsuje/ros2_ws/install/dsr_moveit_config_m1509/share/dsr_moveit_config_m1509/config/initial_positions.yaml
+[1.828s] -- Symlinking: /home/minsuje/ros2_ws/install/dsr_moveit_config_m1509/share/dsr_moveit_config_m1509/config/joint_limits.yaml
+[1.840s] -- Symlinking: /home/minsuje/ros2_ws/install/dsr_moveit_config_m1509/share/dsr_moveit_config_m1509/config/kinematics.yaml
+[1.852s] -- Symlinking: /home/minsuje/ros2_ws/install/dsr_moveit_config_m1509/share/dsr_moveit_config_m1509/config/m1509.urdf.xacro
+[1.862s] -- Symlinking: /home/minsuje/ros2_ws/install/dsr_moveit_config_m1509/share/dsr_moveit_config_m1509/config/moveit_controllers.yaml
+[1.875s] -- Symlinking: /home/minsuje/ros2_ws/install/dsr_moveit_config_m1509/share/dsr_moveit_config_m1509/config/ompl_planning.yaml
+[1.888s] -- Symlinking: /home/minsuje/ros2_ws/install/dsr_moveit_config_m1509/share/dsr_moveit_config_m1509/config/pilz_cartesian_limits.yaml
+[1.899s] -- Symlinking: /home/minsuje/ros2_ws/install/dsr_moveit_config_m1509/share/dsr_moveit_config_m1509/config/ros2_controllers.yaml
+[1.917s] -- Symlinking: /home/minsuje/ros2_ws/install/dsr_moveit_config_m1509/share/dsr_moveit_config_m1509/config/sensors_3d.yaml
+[1.926s] -- Symlinking: /home/minsuje/ros2_ws/install/dsr_moveit_config_m1509/share/dsr_moveit_config_m1509/.setup_assistant
+[2.316s] Invoked command in '/home/minsuje/ros2_ws/build/dsr_moveit_config_m1509' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/minsuje/ros2_ws/build/dsr_moveit_config_m1509

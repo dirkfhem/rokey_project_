@@ -1,0 +1,20 @@
+[1.464s] Invoking command in '/home/minsuje/ros2_ws/build/dsr_visualservoing': PYTHONPATH=/home/minsuje/ros2_ws/build/dsr_visualservoing/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/minsuje/ros2_ws/install/dsr_visualservoing/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/minsuje/ros2_ws/build/dsr_visualservoing/build --no-deps symlink_data
+[1.688s] running develop
+[1.863s] running egg_info
+[1.863s] writing dsr_visualservoing.egg-info/PKG-INFO
+[1.863s] writing dependency_links to dsr_visualservoing.egg-info/dependency_links.txt
+[1.863s] writing entry points to dsr_visualservoing.egg-info/entry_points.txt
+[1.864s] writing requirements to dsr_visualservoing.egg-info/requires.txt
+[1.864s] writing top-level names to dsr_visualservoing.egg-info/top_level.txt
+[1.865s] reading manifest file 'dsr_visualservoing.egg-info/SOURCES.txt'
+[1.865s] writing manifest file 'dsr_visualservoing.egg-info/SOURCES.txt'
+[1.892s] running build_ext
+[1.892s] Creating /home/minsuje/ros2_ws/install/dsr_visualservoing/lib/python3.10/site-packages/dsr-visualservoing.egg-link (link to .)
+[1.892s] Installing camera_publisher script to /home/minsuje/ros2_ws/install/dsr_visualservoing/lib/dsr_visualservoing
+[1.892s] Installing detect_marker_gz script to /home/minsuje/ros2_ws/install/dsr_visualservoing/lib/dsr_visualservoing
+[1.893s] Installing joint90 script to /home/minsuje/ros2_ws/install/dsr_visualservoing/lib/dsr_visualservoing
+[1.893s] Installing send_pose_servol_gz script to /home/minsuje/ros2_ws/install/dsr_visualservoing/lib/dsr_visualservoing
+[1.893s] 
+[1.893s] Installed /home/minsuje/ros2_ws/build/dsr_visualservoing
+[1.893s] running symlink_data
+[2.115s] Invoked command in '/home/minsuje/ros2_ws/build/dsr_visualservoing' returned '0': PYTHONPATH=/home/minsuje/ros2_ws/build/dsr_visualservoing/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/minsuje/ros2_ws/install/dsr_visualservoing/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/minsuje/ros2_ws/build/dsr_visualservoing/build --no-deps symlink_data

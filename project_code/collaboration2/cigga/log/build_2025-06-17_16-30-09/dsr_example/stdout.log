@@ -1,0 +1,23 @@
+running develop
+running egg_info
+creating dsr_example.egg-info
+writing dsr_example.egg-info/PKG-INFO
+writing dependency_links to dsr_example.egg-info/dependency_links.txt
+writing entry points to dsr_example.egg-info/entry_points.txt
+writing requirements to dsr_example.egg-info/requires.txt
+writing top-level names to dsr_example.egg-info/top_level.txt
+writing manifest file 'dsr_example.egg-info/SOURCES.txt'
+reading manifest file 'dsr_example.egg-info/SOURCES.txt'
+writing manifest file 'dsr_example.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/minsuje/ros2_ws/install/dsr_example/lib/python3.10/site-packages/dsr-example.egg-link (link to .)
+Installing dance script to /home/minsuje/ros2_ws/install/dsr_example/lib/dsr_example
+Installing single_robot_simple script to /home/minsuje/ros2_ws/install/dsr_example/lib/dsr_example
+
+Installed /home/minsuje/ros2_ws/build/dsr_example
+running symlink_data
+creating /home/minsuje/ros2_ws/install/dsr_example/share/ament_index
+creating /home/minsuje/ros2_ws/install/dsr_example/share/ament_index/resource_index
+creating /home/minsuje/ros2_ws/install/dsr_example/share/ament_index/resource_index/packages
+symbolically linking /home/minsuje/ros2_ws/build/dsr_example/resource/dsr_example -> /home/minsuje/ros2_ws/install/dsr_example/share/ament_index/resource_index/packages
+symbolically linking /home/minsuje/ros2_ws/build/dsr_example/package.xml -> /home/minsuje/ros2_ws/install/dsr_example/share/dsr_example

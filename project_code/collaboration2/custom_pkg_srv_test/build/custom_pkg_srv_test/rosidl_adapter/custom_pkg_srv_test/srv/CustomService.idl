@@ -1,0 +1,21 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from custom_pkg_srv_test/srv/CustomService.srv
+// generated code does not contain a copyright notice
+
+
+module custom_pkg_srv_test {
+  module srv {
+    @verbatim (language="comment", text=
+      "요청 (request) 부분")
+    struct CustomService_Request {
+      string brand;
+
+      int32 count;
+    };
+    @verbatim (language="comment", text=
+      "응답 (response) 부분")
+    struct CustomService_Response {
+      boolean success;
+    };
+  };
+};

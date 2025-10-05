@@ -1,0 +1,32 @@
+[2.528s] Invoking command in '/home/minsuje/turtlebot3_ws/build/turtlebot3_autorace_camera': PYTHONPATH=/home/minsuje/turtlebot3_ws/build/turtlebot3_autorace_camera/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/minsuje/turtlebot3_ws/install/turtlebot3_autorace_camera/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/minsuje/turtlebot3_ws/build/turtlebot3_autorace_camera/build --no-deps symlink_data
+[2.928s] running develop
+[3.269s] running egg_info
+[3.269s] creating turtlebot3_autorace_camera.egg-info
+[3.269s] writing turtlebot3_autorace_camera.egg-info/PKG-INFO
+[3.269s] writing dependency_links to turtlebot3_autorace_camera.egg-info/dependency_links.txt
+[3.270s] writing entry points to turtlebot3_autorace_camera.egg-info/entry_points.txt
+[3.270s] writing requirements to turtlebot3_autorace_camera.egg-info/requires.txt
+[3.270s] writing top-level names to turtlebot3_autorace_camera.egg-info/top_level.txt
+[3.270s] writing manifest file 'turtlebot3_autorace_camera.egg-info/SOURCES.txt'
+[3.272s] reading manifest file 'turtlebot3_autorace_camera.egg-info/SOURCES.txt'
+[3.273s] writing manifest file 'turtlebot3_autorace_camera.egg-info/SOURCES.txt'
+[3.318s] running build_ext
+[3.321s] Creating /home/minsuje/turtlebot3_ws/install/turtlebot3_autorace_camera/lib/python3.10/site-packages/turtlebot3-autorace-camera.egg-link (link to .)
+[3.321s] Installing image_compensation script to /home/minsuje/turtlebot3_ws/install/turtlebot3_autorace_camera/lib/turtlebot3_autorace_camera
+[3.321s] Installing image_projection script to /home/minsuje/turtlebot3_ws/install/turtlebot3_autorace_camera/lib/turtlebot3_autorace_camera
+[3.321s] 
+[3.321s] Installed /home/minsuje/turtlebot3_ws/build/turtlebot3_autorace_camera
+[3.321s] running symlink_data
+[3.321s] creating /home/minsuje/turtlebot3_ws/install/turtlebot3_autorace_camera/share/ament_index
+[3.321s] creating /home/minsuje/turtlebot3_ws/install/turtlebot3_autorace_camera/share/ament_index/resource_index
+[3.321s] creating /home/minsuje/turtlebot3_ws/install/turtlebot3_autorace_camera/share/ament_index/resource_index/packages
+[3.321s] symbolically linking /home/minsuje/turtlebot3_ws/build/turtlebot3_autorace_camera/resource/turtlebot3_autorace_camera -> /home/minsuje/turtlebot3_ws/install/turtlebot3_autorace_camera/share/ament_index/resource_index/packages
+[3.321s] symbolically linking /home/minsuje/turtlebot3_ws/build/turtlebot3_autorace_camera/package.xml -> /home/minsuje/turtlebot3_ws/install/turtlebot3_autorace_camera/share/turtlebot3_autorace_camera
+[3.321s] creating /home/minsuje/turtlebot3_ws/install/turtlebot3_autorace_camera/share/turtlebot3_autorace_camera/launch
+[3.321s] symbolically linking /home/minsuje/turtlebot3_ws/build/turtlebot3_autorace_camera/launch/intrinsic_camera_calibration.launch.py -> /home/minsuje/turtlebot3_ws/install/turtlebot3_autorace_camera/share/turtlebot3_autorace_camera/launch
+[3.322s] symbolically linking /home/minsuje/turtlebot3_ws/build/turtlebot3_autorace_camera/launch/extrinsic_camera_calibration.launch.py -> /home/minsuje/turtlebot3_ws/install/turtlebot3_autorace_camera/share/turtlebot3_autorace_camera/launch
+[3.322s] creating /home/minsuje/turtlebot3_ws/install/turtlebot3_autorace_camera/share/turtlebot3_autorace_camera/calibration
+[3.322s] creating /home/minsuje/turtlebot3_ws/install/turtlebot3_autorace_camera/share/turtlebot3_autorace_camera/calibration/extrinsic_calibration
+[3.322s] symbolically linking /home/minsuje/turtlebot3_ws/build/turtlebot3_autorace_camera/calibration/extrinsic_calibration/projection.yaml -> /home/minsuje/turtlebot3_ws/install/turtlebot3_autorace_camera/share/turtlebot3_autorace_camera/calibration/extrinsic_calibration
+[3.322s] symbolically linking /home/minsuje/turtlebot3_ws/build/turtlebot3_autorace_camera/calibration/extrinsic_calibration/compensation.yaml -> /home/minsuje/turtlebot3_ws/install/turtlebot3_autorace_camera/share/turtlebot3_autorace_camera/calibration/extrinsic_calibration
+[3.441s] Invoked command in '/home/minsuje/turtlebot3_ws/build/turtlebot3_autorace_camera' returned '0': PYTHONPATH=/home/minsuje/turtlebot3_ws/build/turtlebot3_autorace_camera/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/minsuje/turtlebot3_ws/install/turtlebot3_autorace_camera/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/minsuje/turtlebot3_ws/build/turtlebot3_autorace_camera/build --no-deps symlink_data

@@ -1,0 +1,1 @@
+/home/minsuje/ros2_ws/build/dsr_msgs2/rosidl_generator_py/dsr_msgs2/srv/_set_safety_mode.py

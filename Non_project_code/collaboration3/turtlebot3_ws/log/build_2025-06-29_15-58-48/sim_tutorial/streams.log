@@ -1,0 +1,16 @@
+[2.069s] Invoking command in '/home/minsuje/turtlebot3_ws/build/sim_tutorial': PYTHONPATH=/home/minsuje/turtlebot3_ws/build/sim_tutorial/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/minsuje/turtlebot3_ws/install/sim_tutorial/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/minsuje/turtlebot3_ws/build/sim_tutorial/build --no-deps symlink_data
+[2.278s] running develop
+[2.446s] running egg_info
+[2.447s] writing sim_tutorial.egg-info/PKG-INFO
+[2.447s] writing dependency_links to sim_tutorial.egg-info/dependency_links.txt
+[2.447s] writing entry points to sim_tutorial.egg-info/entry_points.txt
+[2.447s] writing requirements to sim_tutorial.egg-info/requires.txt
+[2.447s] writing top-level names to sim_tutorial.egg-info/top_level.txt
+[2.448s] reading manifest file 'sim_tutorial.egg-info/SOURCES.txt'
+[2.449s] writing manifest file 'sim_tutorial.egg-info/SOURCES.txt'
+[2.472s] running build_ext
+[2.473s] Creating /home/minsuje/turtlebot3_ws/install/sim_tutorial/lib/python3.10/site-packages/sim-tutorial.egg-link (link to .)
+[2.473s] 
+[2.473s] Installed /home/minsuje/turtlebot3_ws/build/sim_tutorial
+[2.473s] running symlink_data
+[2.502s] Invoked command in '/home/minsuje/turtlebot3_ws/build/sim_tutorial' returned '0': PYTHONPATH=/home/minsuje/turtlebot3_ws/build/sim_tutorial/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/minsuje/turtlebot3_ws/install/sim_tutorial/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/minsuje/turtlebot3_ws/build/sim_tutorial/build --no-deps symlink_data

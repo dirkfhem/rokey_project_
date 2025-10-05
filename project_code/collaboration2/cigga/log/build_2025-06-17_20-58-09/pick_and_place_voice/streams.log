@@ -1,0 +1,22 @@
+[1.713s] Invoking command in '/home/minsuje/ros2_ws/build/pick_and_place_voice': PYTHONPATH=/home/minsuje/ros2_ws/build/pick_and_place_voice/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/minsuje/ros2_ws/install/pick_and_place_voice/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/minsuje/ros2_ws/build/pick_and_place_voice/build --no-deps symlink_data
+[1.947s] running develop
+[2.134s] running egg_info
+[2.135s] writing pick_and_place_voice.egg-info/PKG-INFO
+[2.135s] writing dependency_links to pick_and_place_voice.egg-info/dependency_links.txt
+[2.135s] writing entry points to pick_and_place_voice.egg-info/entry_points.txt
+[2.135s] writing requirements to pick_and_place_voice.egg-info/requires.txt
+[2.135s] writing top-level names to pick_and_place_voice.egg-info/top_level.txt
+[2.136s] reading manifest file 'pick_and_place_voice.egg-info/SOURCES.txt'
+[2.137s] writing manifest file 'pick_and_place_voice.egg-info/SOURCES.txt'
+[2.163s] running build_ext
+[2.164s] Creating /home/minsuje/ros2_ws/install/pick_and_place_voice/lib/python3.10/site-packages/pick-and-place-voice.egg-link (link to .)
+[2.164s] Installing ciga_obj_detect script to /home/minsuje/ros2_ws/install/pick_and_place_voice/lib/pick_and_place_voice
+[2.164s] Installing ciga_robo_ctrl script to /home/minsuje/ros2_ws/install/pick_and_place_voice/lib/pick_and_place_voice
+[2.164s] Installing get_keyword script to /home/minsuje/ros2_ws/install/pick_and_place_voice/lib/pick_and_place_voice
+[2.164s] Installing object_detection script to /home/minsuje/ros2_ws/install/pick_and_place_voice/lib/pick_and_place_voice
+[2.165s] Installing robot_control script to /home/minsuje/ros2_ws/install/pick_and_place_voice/lib/pick_and_place_voice
+[2.165s] Installing voice_order_ciga script to /home/minsuje/ros2_ws/install/pick_and_place_voice/lib/pick_and_place_voice
+[2.165s] 
+[2.165s] Installed /home/minsuje/ros2_ws/build/pick_and_place_voice
+[2.165s] running symlink_data
+[2.426s] Invoked command in '/home/minsuje/ros2_ws/build/pick_and_place_voice' returned '0': PYTHONPATH=/home/minsuje/ros2_ws/build/pick_and_place_voice/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/minsuje/ros2_ws/install/pick_and_place_voice/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/minsuje/ros2_ws/build/pick_and_place_voice/build --no-deps symlink_data

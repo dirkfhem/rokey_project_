@@ -1,0 +1,33 @@
+[2.298s] Invoking command in '/home/minsuje/ros2_ws/build/rokey': PYTHONPATH=/home/minsuje/ros2_ws/build/rokey/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/minsuje/ros2_ws/install/rokey/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/minsuje/ros2_ws/build/rokey/build --no-deps symlink_data
+[2.901s] running develop
+[3.338s] running egg_info
+[3.338s] creating rokey.egg-info
+[3.338s] writing rokey.egg-info/PKG-INFO
+[3.338s] writing dependency_links to rokey.egg-info/dependency_links.txt
+[3.338s] writing entry points to rokey.egg-info/entry_points.txt
+[3.338s] writing requirements to rokey.egg-info/requires.txt
+[3.338s] writing top-level names to rokey.egg-info/top_level.txt
+[3.339s] writing manifest file 'rokey.egg-info/SOURCES.txt'
+[3.340s] reading manifest file 'rokey.egg-info/SOURCES.txt'
+[3.341s] writing manifest file 'rokey.egg-info/SOURCES.txt'
+[3.375s] running build_ext
+[3.375s] Creating /home/minsuje/ros2_ws/install/rokey/lib/python3.10/site-packages/rokey.egg-link (link to .)
+[3.376s] Installing data_recording script to /home/minsuje/ros2_ws/install/rokey/lib/rokey
+[3.376s] Installing force_control script to /home/minsuje/ros2_ws/install/rokey/lib/rokey
+[3.376s] Installing get_current_pos script to /home/minsuje/ros2_ws/install/rokey/lib/rokey
+[3.376s] Installing getting_position script to /home/minsuje/ros2_ws/install/rokey/lib/rokey
+[3.376s] Installing grip script to /home/minsuje/ros2_ws/install/rokey/lib/rokey
+[3.377s] Installing jog script to /home/minsuje/ros2_ws/install/rokey/lib/rokey
+[3.377s] Installing move_periodic script to /home/minsuje/ros2_ws/install/rokey/lib/rokey
+[3.377s] Installing simple_amove script to /home/minsuje/ros2_ws/install/rokey/lib/rokey
+[3.377s] Installing simple_move script to /home/minsuje/ros2_ws/install/rokey/lib/rokey
+[3.377s] Installing simple_movesx script to /home/minsuje/ros2_ws/install/rokey/lib/rokey
+[3.377s] 
+[3.377s] Installed /home/minsuje/ros2_ws/build/rokey
+[3.377s] running symlink_data
+[3.377s] creating /home/minsuje/ros2_ws/install/rokey/share/ament_index
+[3.377s] creating /home/minsuje/ros2_ws/install/rokey/share/ament_index/resource_index
+[3.377s] creating /home/minsuje/ros2_ws/install/rokey/share/ament_index/resource_index/packages
+[3.377s] symbolically linking /home/minsuje/ros2_ws/build/rokey/resource/rokey -> /home/minsuje/ros2_ws/install/rokey/share/ament_index/resource_index/packages
+[3.378s] symbolically linking /home/minsuje/ros2_ws/build/rokey/package.xml -> /home/minsuje/ros2_ws/install/rokey/share/rokey
+[3.442s] Invoked command in '/home/minsuje/ros2_ws/build/rokey' returned '0': PYTHONPATH=/home/minsuje/ros2_ws/build/rokey/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/minsuje/ros2_ws/install/rokey/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/minsuje/ros2_ws/build/rokey/build --no-deps symlink_data

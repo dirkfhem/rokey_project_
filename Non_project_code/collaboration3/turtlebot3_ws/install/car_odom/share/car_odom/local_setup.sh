@@ -1,0 +1,1 @@
+/home/minsuje/turtlebot3_ws/build/car_odom/ament_cmake_environment_hooks/local_setup.sh

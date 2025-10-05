@@ -1,0 +1,26 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/minsuje/rokey_ws/build/yolov8_ros",
+        "/home/minsuje/rokey_ws/build/turtlebot4_beep",
+        "/home/minsuje/turn_off_fire_ws/install/fire_perception/local/lib/python3.10/dist-packages",
+        "/home/minsuje/turn_off_fire_ws/install/fire_decision/local/lib/python3.10/dist-packages",
+        "/home/minsuje/rokey_ws/install/yolov8_ros/lib/python3.10/site-packages",
+        "/home/minsuje/rokey_ws/install/turtlebot4_beep/lib/python3.10/site-packages",
+        "/home/minsuje/turtlebot4_ws/install/turtlebot4_navigation/local/lib/python3.10/dist-packages",
+        "/home/minsuje/turtlebot4_ws/install/turtlebot4_msgs/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/minsuje/rokey_ws/build/yolov8_ros",
+        "/home/minsuje/rokey_ws/build/turtlebot4_beep",
+        "/home/minsuje/turn_off_fire_ws/install/fire_perception/local/lib/python3.10/dist-packages",
+        "/home/minsuje/turn_off_fire_ws/install/fire_decision/local/lib/python3.10/dist-packages",
+        "/home/minsuje/rokey_ws/install/yolov8_ros/lib/python3.10/site-packages",
+        "/home/minsuje/rokey_ws/install/turtlebot4_beep/lib/python3.10/site-packages",
+        "/home/minsuje/turtlebot4_ws/install/turtlebot4_navigation/local/lib/python3.10/dist-packages",
+        "/home/minsuje/turtlebot4_ws/install/turtlebot4_msgs/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}

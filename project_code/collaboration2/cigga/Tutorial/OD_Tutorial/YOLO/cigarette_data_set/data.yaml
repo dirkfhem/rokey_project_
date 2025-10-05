@@ -1,0 +1,4 @@
+train: /home/minsuje/ros2_ws/Tutorial/OD_Tutorial/YOLO/cigarette_data_set/train/images
+val: /home/minsuje/ros2_ws/Tutorial/OD_Tutorial/YOLO/cigarette_data_set/val/images
+nc: 0
+names: []

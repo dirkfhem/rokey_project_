@@ -1,0 +1,17 @@
+[2.078s] Invoking command in '/home/minsuje/turtlebot3_ws/build/arm_tutorial': PYTHONPATH=/home/minsuje/turtlebot3_ws/build/arm_tutorial/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/minsuje/turtlebot3_ws/install/arm_tutorial/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/minsuje/turtlebot3_ws/build/arm_tutorial/build --no-deps symlink_data
+[2.290s] running develop
+[2.458s] running egg_info
+[2.458s] writing arm_tutorial.egg-info/PKG-INFO
+[2.458s] writing dependency_links to arm_tutorial.egg-info/dependency_links.txt
+[2.458s] writing entry points to arm_tutorial.egg-info/entry_points.txt
+[2.458s] writing requirements to arm_tutorial.egg-info/requires.txt
+[2.458s] writing top-level names to arm_tutorial.egg-info/top_level.txt
+[2.459s] reading manifest file 'arm_tutorial.egg-info/SOURCES.txt'
+[2.460s] writing manifest file 'arm_tutorial.egg-info/SOURCES.txt'
+[2.484s] running build_ext
+[2.484s] Creating /home/minsuje/turtlebot3_ws/install/arm_tutorial/lib/python3.10/site-packages/arm-tutorial.egg-link (link to .)
+[2.484s] Installing fake_driver script to /home/minsuje/turtlebot3_ws/install/arm_tutorial/lib/arm_tutorial
+[2.484s] 
+[2.485s] Installed /home/minsuje/turtlebot3_ws/build/arm_tutorial
+[2.485s] running symlink_data
+[2.519s] Invoked command in '/home/minsuje/turtlebot3_ws/build/arm_tutorial' returned '0': PYTHONPATH=/home/minsuje/turtlebot3_ws/build/arm_tutorial/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/minsuje/turtlebot3_ws/install/arm_tutorial/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/minsuje/turtlebot3_ws/build/arm_tutorial/build --no-deps symlink_data

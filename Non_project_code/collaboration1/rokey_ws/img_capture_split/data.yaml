@@ -1,0 +1,5 @@
+names: [4]
+nc: 1
+test: /home/minsuje/rokey_ws/img_capture_split/test
+train: /home/minsuje/rokey_ws/img_capture_split/train
+val: /home/minsuje/rokey_ws/img_capture_split/val

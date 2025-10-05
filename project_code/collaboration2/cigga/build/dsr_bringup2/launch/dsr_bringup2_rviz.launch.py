@@ -1,0 +1,1 @@
+/home/minsuje/ros2_ws/src/DoosanBootcamp3rd/dsr_bringup2/launch/dsr_bringup2_rviz.launch.py

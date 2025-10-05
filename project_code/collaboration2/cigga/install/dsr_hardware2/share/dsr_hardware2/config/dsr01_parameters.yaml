@@ -1,0 +1,11 @@
+command: true
+gripper: none
+host: 192.168.1.100
+mobile: none
+mode: real
+model: m0609
+name: dsr01
+port: 12345
+rate: 100
+rt_host: 192.168.137.50
+standby: 5000

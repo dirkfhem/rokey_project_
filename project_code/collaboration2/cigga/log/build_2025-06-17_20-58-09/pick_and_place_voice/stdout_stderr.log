@@ -1,0 +1,20 @@
+running develop
+running egg_info
+writing pick_and_place_voice.egg-info/PKG-INFO
+writing dependency_links to pick_and_place_voice.egg-info/dependency_links.txt
+writing entry points to pick_and_place_voice.egg-info/entry_points.txt
+writing requirements to pick_and_place_voice.egg-info/requires.txt
+writing top-level names to pick_and_place_voice.egg-info/top_level.txt
+reading manifest file 'pick_and_place_voice.egg-info/SOURCES.txt'
+writing manifest file 'pick_and_place_voice.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/minsuje/ros2_ws/install/pick_and_place_voice/lib/python3.10/site-packages/pick-and-place-voice.egg-link (link to .)
+Installing ciga_obj_detect script to /home/minsuje/ros2_ws/install/pick_and_place_voice/lib/pick_and_place_voice
+Installing ciga_robo_ctrl script to /home/minsuje/ros2_ws/install/pick_and_place_voice/lib/pick_and_place_voice
+Installing get_keyword script to /home/minsuje/ros2_ws/install/pick_and_place_voice/lib/pick_and_place_voice
+Installing object_detection script to /home/minsuje/ros2_ws/install/pick_and_place_voice/lib/pick_and_place_voice
+Installing robot_control script to /home/minsuje/ros2_ws/install/pick_and_place_voice/lib/pick_and_place_voice
+Installing voice_order_ciga script to /home/minsuje/ros2_ws/install/pick_and_place_voice/lib/pick_and_place_voice
+
+Installed /home/minsuje/ros2_ws/build/pick_and_place_voice
+running symlink_data

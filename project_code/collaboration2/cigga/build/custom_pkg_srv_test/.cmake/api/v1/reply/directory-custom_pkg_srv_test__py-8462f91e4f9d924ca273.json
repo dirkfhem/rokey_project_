@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "custom_pkg_srv_test__py",
+		"source" : "/home/minsuje/ros2_ws/build/custom_pkg_srv_test/custom_pkg_srv_test__py"
+	}
+}

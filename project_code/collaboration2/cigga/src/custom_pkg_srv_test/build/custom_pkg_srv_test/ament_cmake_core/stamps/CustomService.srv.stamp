@@ -1,0 +1,7 @@
+# 요청 (request) 부분
+string brand
+int32 count
+
+---
+# 응답 (response) 부분
+bool success

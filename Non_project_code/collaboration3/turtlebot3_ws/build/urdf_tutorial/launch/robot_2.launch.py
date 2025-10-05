@@ -1,0 +1,1 @@
+/home/minsuje/turtlebot3_ws/ws_urdf/src/urdf_tutorial/launch/robot_2.launch.py

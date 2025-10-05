@@ -1,0 +1,13 @@
+train: ../cocodataset/train/images
+val: ../cocodataset/valid/images
+test: ../cocodataset/test/images
+
+nc: 1
+names: ['bungkus rokok']
+
+roboflow:
+  workspace: bungkus-rokok
+  project: bungkus-rokok
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/bungkus-rokok/bungkus-rokok/dataset/1

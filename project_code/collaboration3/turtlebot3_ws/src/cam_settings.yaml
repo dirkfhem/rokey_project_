@@ -1,0 +1,33 @@
+camera:
+  brightness: 0
+  contrast: 32
+  device_id: 0
+  exposure: -7
+  hue: 0
+  resolution:
+    height: 320
+    width: 480
+  saturation: 32
+  white_balance: -1
+color_ranges:
+  white:
+    h_max: -1
+    h_min: -1
+    s_max: -1
+    s_min: -1
+    v_max: -1
+    v_min: -1
+  yellow:
+    h_max: 60
+    h_min: 20
+    s_max: 255
+    s_min: 0
+    v_max: 255
+    v_min: 0
+preprocessing:
+  white_bright_filter:
+    apply: false
+    threshold: -1
+  yellow_bright_filter:
+    apply: true
+    threshold: 4899

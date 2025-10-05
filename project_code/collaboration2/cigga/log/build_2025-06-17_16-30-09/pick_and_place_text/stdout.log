@@ -1,0 +1,24 @@
+running develop
+running egg_info
+creating pick_and_place_text.egg-info
+writing pick_and_place_text.egg-info/PKG-INFO
+writing dependency_links to pick_and_place_text.egg-info/dependency_links.txt
+writing entry points to pick_and_place_text.egg-info/entry_points.txt
+writing requirements to pick_and_place_text.egg-info/requires.txt
+writing top-level names to pick_and_place_text.egg-info/top_level.txt
+writing manifest file 'pick_and_place_text.egg-info/SOURCES.txt'
+reading manifest file 'pick_and_place_text.egg-info/SOURCES.txt'
+writing manifest file 'pick_and_place_text.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/minsuje/ros2_ws/install/pick_and_place_text/lib/python3.10/site-packages/pick-and-place-text.egg-link (link to .)
+Installing detection script to /home/minsuje/ros2_ws/install/pick_and_place_text/lib/pick_and_place_text
+Installing robot_move script to /home/minsuje/ros2_ws/install/pick_and_place_text/lib/pick_and_place_text
+
+Installed /home/minsuje/ros2_ws/build/pick_and_place_text
+running symlink_data
+symbolically linking /home/minsuje/ros2_ws/build/pick_and_place_text/package.xml -> /home/minsuje/ros2_ws/install/pick_and_place_text/share/pick_and_place_text
+creating /home/minsuje/ros2_ws/install/pick_and_place_text/share/pick_and_place_text/resource
+symbolically linking /home/minsuje/ros2_ws/build/pick_and_place_text/resource/cigarette.pt -> /home/minsuje/ros2_ws/install/pick_and_place_text/share/pick_and_place_text/resource
+symbolically linking /home/minsuje/ros2_ws/build/pick_and_place_text/resource/pick_and_place_text -> /home/minsuje/ros2_ws/install/pick_and_place_text/share/pick_and_place_text/resource
+symbolically linking /home/minsuje/ros2_ws/build/pick_and_place_text/resource/class_name_tool.json -> /home/minsuje/ros2_ws/install/pick_and_place_text/share/pick_and_place_text/resource
+symbolically linking /home/minsuje/ros2_ws/build/pick_and_place_text/resource/T_gripper2camera.npy -> /home/minsuje/ros2_ws/install/pick_and_place_text/share/pick_and_place_text/resource

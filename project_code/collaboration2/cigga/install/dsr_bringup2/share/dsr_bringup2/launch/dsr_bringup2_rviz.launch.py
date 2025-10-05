@@ -1,0 +1,1 @@
+/home/minsuje/ros2_ws/build/dsr_bringup2/launch/dsr_bringup2_rviz.launch.py

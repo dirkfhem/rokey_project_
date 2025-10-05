@@ -1,0 +1,1 @@
+/home/minsuje/turtlebot3_ws/open_manipulator/open_manipulator_x_moveit_config/launch/demo.launch.py

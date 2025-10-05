@@ -1,0 +1,1 @@
+/home/minsuje/ros2_ws/build/dsr_msgs2/rosidl_generator_cpp/dsr_msgs2/srv/detail/is_done_bolt_tightening__struct.hpp

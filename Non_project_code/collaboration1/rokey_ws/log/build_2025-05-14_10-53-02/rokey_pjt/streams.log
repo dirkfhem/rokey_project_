@@ -1,0 +1,26 @@
+[0.328s] Invoking command in '/home/minsuje/rokey_ws/build/rokey_pjt': PYTHONPATH=/home/minsuje/rokey_ws/build/rokey_pjt/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/minsuje/rokey_ws/install/rokey_pjt/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/minsuje/rokey_ws/build/rokey_pjt/build --no-deps symlink_data
+[0.469s] running develop
+[0.567s] running egg_info
+[0.567s] creating rokey_pjt.egg-info
+[0.567s] writing rokey_pjt.egg-info/PKG-INFO
+[0.567s] writing dependency_links to rokey_pjt.egg-info/dependency_links.txt
+[0.567s] writing entry points to rokey_pjt.egg-info/entry_points.txt
+[0.567s] writing requirements to rokey_pjt.egg-info/requires.txt
+[0.567s] writing top-level names to rokey_pjt.egg-info/top_level.txt
+[0.567s] writing manifest file 'rokey_pjt.egg-info/SOURCES.txt'
+[0.568s] reading manifest file 'rokey_pjt.egg-info/SOURCES.txt'
+[0.568s] writing manifest file 'rokey_pjt.egg-info/SOURCES.txt'
+[0.569s] running build_ext
+[0.569s] Creating /home/minsuje/rokey_ws/install/rokey_pjt/lib/python3.10/site-packages/rokey-pjt.egg-link (link to .)
+[0.569s] Installing depth_checker script to /home/minsuje/rokey_ws/install/rokey_pjt/lib/rokey_pjt
+[0.569s] Installing depth_checker_click script to /home/minsuje/rokey_ws/install/rokey_pjt/lib/rokey_pjt
+[0.569s] Installing yolo_depth_checker script to /home/minsuje/rokey_ws/install/rokey_pjt/lib/rokey_pjt
+[0.569s] 
+[0.569s] Installed /home/minsuje/rokey_ws/build/rokey_pjt
+[0.569s] running symlink_data
+[0.569s] creating /home/minsuje/rokey_ws/install/rokey_pjt/share/ament_index
+[0.569s] creating /home/minsuje/rokey_ws/install/rokey_pjt/share/ament_index/resource_index
+[0.569s] creating /home/minsuje/rokey_ws/install/rokey_pjt/share/ament_index/resource_index/packages
+[0.569s] symbolically linking /home/minsuje/rokey_ws/build/rokey_pjt/resource/rokey_pjt -> /home/minsuje/rokey_ws/install/rokey_pjt/share/ament_index/resource_index/packages
+[0.569s] symbolically linking /home/minsuje/rokey_ws/build/rokey_pjt/package.xml -> /home/minsuje/rokey_ws/install/rokey_pjt/share/rokey_pjt
+[0.584s] Invoked command in '/home/minsuje/rokey_ws/build/rokey_pjt' returned '0': PYTHONPATH=/home/minsuje/rokey_ws/build/rokey_pjt/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/minsuje/rokey_ws/install/rokey_pjt/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/minsuje/rokey_ws/build/rokey_pjt/build --no-deps symlink_data

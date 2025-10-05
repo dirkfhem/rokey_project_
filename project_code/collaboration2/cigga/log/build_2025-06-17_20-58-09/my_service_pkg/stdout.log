@@ -1,0 +1,16 @@
+running develop
+running egg_info
+writing my_service_pkg.egg-info/PKG-INFO
+writing dependency_links to my_service_pkg.egg-info/dependency_links.txt
+writing entry points to my_service_pkg.egg-info/entry_points.txt
+writing requirements to my_service_pkg.egg-info/requires.txt
+writing top-level names to my_service_pkg.egg-info/top_level.txt
+reading manifest file 'my_service_pkg.egg-info/SOURCES.txt'
+writing manifest file 'my_service_pkg.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/minsuje/ros2_ws/install/my_service_pkg/lib/python3.10/site-packages/my-service-pkg.egg-link (link to .)
+Installing add_three_ints_client script to /home/minsuje/ros2_ws/install/my_service_pkg/lib/my_service_pkg
+Installing add_three_ints_server script to /home/minsuje/ros2_ws/install/my_service_pkg/lib/my_service_pkg
+
+Installed /home/minsuje/ros2_ws/build/my_service_pkg
+running symlink_data

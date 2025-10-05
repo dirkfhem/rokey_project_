@@ -1,0 +1,1 @@
+/home/minsuje/ros2_ws/build/dsr_msgs2/rosidl_typesupport_fastrtps_c/dsr_msgs2/msg/detail/robot_state__rosidl_typesupport_fastrtps_c.h

@@ -1,0 +1,18 @@
+running develop
+running egg_info
+writing dsr_visualservoing.egg-info/PKG-INFO
+writing dependency_links to dsr_visualservoing.egg-info/dependency_links.txt
+writing entry points to dsr_visualservoing.egg-info/entry_points.txt
+writing requirements to dsr_visualservoing.egg-info/requires.txt
+writing top-level names to dsr_visualservoing.egg-info/top_level.txt
+reading manifest file 'dsr_visualservoing.egg-info/SOURCES.txt'
+writing manifest file 'dsr_visualservoing.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/minsuje/ros2_ws/install/dsr_visualservoing/lib/python3.10/site-packages/dsr-visualservoing.egg-link (link to .)
+Installing camera_publisher script to /home/minsuje/ros2_ws/install/dsr_visualservoing/lib/dsr_visualservoing
+Installing detect_marker_gz script to /home/minsuje/ros2_ws/install/dsr_visualservoing/lib/dsr_visualservoing
+Installing joint90 script to /home/minsuje/ros2_ws/install/dsr_visualservoing/lib/dsr_visualservoing
+Installing send_pose_servol_gz script to /home/minsuje/ros2_ws/install/dsr_visualservoing/lib/dsr_visualservoing
+
+Installed /home/minsuje/ros2_ws/build/dsr_visualservoing
+running symlink_data

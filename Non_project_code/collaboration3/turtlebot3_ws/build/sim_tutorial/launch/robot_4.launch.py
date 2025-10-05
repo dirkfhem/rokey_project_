@@ -1,0 +1,1 @@
+/home/minsuje/turtlebot3_ws/ws_sim/ws_sim/src/sim_tutorial/launch/robot_4.launch.py

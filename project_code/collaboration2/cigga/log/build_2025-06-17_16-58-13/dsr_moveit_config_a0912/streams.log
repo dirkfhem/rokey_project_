@@ -1,0 +1,37 @@
+[0.053s] Invoking command in '/home/minsuje/ros2_ws/build/dsr_moveit_config_a0912': CMAKE_PREFIX_PATH=/home/minsuje/ros2_ws/install/rokey:/home/minsuje/ros2_ws/install/pick_and_place_voice:/home/minsuje/ros2_ws/install/pick_and_place_text:/home/minsuje/ros2_ws/install/my_service_pkg:/home/minsuje/ros2_ws/install/dsr_visualservoing:/home/minsuje/ros2_ws/install/dsr_tests:/home/minsuje/ros2_ws/install/dsr_bringup2:/home/minsuje/ros2_ws/install/dsr_example:/opt/ros/humble:${CMAKE_PREFIX_PATH} /usr/bin/cmake --build /home/minsuje/ros2_ws/build/dsr_moveit_config_a0912 -- -j32 -l32
+[0.989s] Invoked command in '/home/minsuje/ros2_ws/build/dsr_moveit_config_a0912' returned '0': CMAKE_PREFIX_PATH=/home/minsuje/ros2_ws/install/rokey:/home/minsuje/ros2_ws/install/pick_and_place_voice:/home/minsuje/ros2_ws/install/pick_and_place_text:/home/minsuje/ros2_ws/install/my_service_pkg:/home/minsuje/ros2_ws/install/dsr_visualservoing:/home/minsuje/ros2_ws/install/dsr_tests:/home/minsuje/ros2_ws/install/dsr_bringup2:/home/minsuje/ros2_ws/install/dsr_example:/opt/ros/humble:${CMAKE_PREFIX_PATH} /usr/bin/cmake --build /home/minsuje/ros2_ws/build/dsr_moveit_config_a0912 -- -j32 -l32
+[0.990s] Invoking command in '/home/minsuje/ros2_ws/build/dsr_moveit_config_a0912': CMAKE_PREFIX_PATH=/home/minsuje/ros2_ws/install/rokey:/home/minsuje/ros2_ws/install/pick_and_place_voice:/home/minsuje/ros2_ws/install/pick_and_place_text:/home/minsuje/ros2_ws/install/my_service_pkg:/home/minsuje/ros2_ws/install/dsr_visualservoing:/home/minsuje/ros2_ws/install/dsr_tests:/home/minsuje/ros2_ws/install/dsr_bringup2:/home/minsuje/ros2_ws/install/dsr_example:/opt/ros/humble:${CMAKE_PREFIX_PATH} /usr/bin/cmake --install /home/minsuje/ros2_ws/build/dsr_moveit_config_a0912
+[1.037s] -- Install configuration: ""
+[1.037s] -- Execute custom install script
+[1.037s] -- Up-to-date symlink: /home/minsuje/ros2_ws/install/dsr_moveit_config_a0912/share/ament_index/resource_index/package_run_dependencies/dsr_moveit_config_a0912
+[1.037s] -- Up-to-date symlink: /home/minsuje/ros2_ws/install/dsr_moveit_config_a0912/share/ament_index/resource_index/parent_prefix_path/dsr_moveit_config_a0912
+[1.037s] -- Up-to-date symlink: /home/minsuje/ros2_ws/install/dsr_moveit_config_a0912/share/dsr_moveit_config_a0912/environment/ament_prefix_path.sh
+[1.037s] -- Up-to-date symlink: /home/minsuje/ros2_ws/install/dsr_moveit_config_a0912/share/dsr_moveit_config_a0912/environment/ament_prefix_path.dsv
+[1.037s] -- Up-to-date symlink: /home/minsuje/ros2_ws/install/dsr_moveit_config_a0912/share/dsr_moveit_config_a0912/environment/path.sh
+[1.037s] -- Up-to-date symlink: /home/minsuje/ros2_ws/install/dsr_moveit_config_a0912/share/dsr_moveit_config_a0912/environment/path.dsv
+[1.037s] -- Up-to-date symlink: /home/minsuje/ros2_ws/install/dsr_moveit_config_a0912/share/dsr_moveit_config_a0912/local_setup.bash
+[1.037s] -- Up-to-date symlink: /home/minsuje/ros2_ws/install/dsr_moveit_config_a0912/share/dsr_moveit_config_a0912/local_setup.sh
+[1.037s] -- Up-to-date symlink: /home/minsuje/ros2_ws/install/dsr_moveit_config_a0912/share/dsr_moveit_config_a0912/local_setup.zsh
+[1.037s] -- Up-to-date symlink: /home/minsuje/ros2_ws/install/dsr_moveit_config_a0912/share/dsr_moveit_config_a0912/local_setup.dsv
+[1.038s] -- Symlinking: /home/minsuje/ros2_ws/install/dsr_moveit_config_a0912/share/dsr_moveit_config_a0912/package.dsv
+[1.038s] -- Up-to-date symlink: /home/minsuje/ros2_ws/install/dsr_moveit_config_a0912/share/ament_index/resource_index/packages/dsr_moveit_config_a0912
+[1.038s] -- Up-to-date symlink: /home/minsuje/ros2_ws/install/dsr_moveit_config_a0912/share/dsr_moveit_config_a0912/cmake/dsr_moveit_config_a0912Config.cmake
+[1.038s] -- Up-to-date symlink: /home/minsuje/ros2_ws/install/dsr_moveit_config_a0912/share/dsr_moveit_config_a0912/cmake/dsr_moveit_config_a0912Config-version.cmake
+[1.038s] -- Up-to-date symlink: /home/minsuje/ros2_ws/install/dsr_moveit_config_a0912/share/dsr_moveit_config_a0912/package.xml
+[1.039s] -- Up-to-date symlink: /home/minsuje/ros2_ws/install/dsr_moveit_config_a0912/share/dsr_moveit_config_a0912/launch/demo.launch.py
+[1.039s] -- Up-to-date symlink: /home/minsuje/ros2_ws/install/dsr_moveit_config_a0912/share/dsr_moveit_config_a0912/launch/moveit.rviz
+[1.039s] -- Up-to-date symlink: /home/minsuje/ros2_ws/install/dsr_moveit_config_a0912/share/dsr_moveit_config_a0912/launch/start.launch.py
+[1.039s] -- Up-to-date symlink: /home/minsuje/ros2_ws/install/dsr_moveit_config_a0912/share/dsr_moveit_config_a0912/config/a0912.urdf.xacro
+[1.039s] -- Up-to-date symlink: /home/minsuje/ros2_ws/install/dsr_moveit_config_a0912/share/dsr_moveit_config_a0912/config/chomp_planning.yaml
+[1.039s] -- Up-to-date symlink: /home/minsuje/ros2_ws/install/dsr_moveit_config_a0912/share/dsr_moveit_config_a0912/config/dsr.ros2_control.xacro
+[1.039s] -- Up-to-date symlink: /home/minsuje/ros2_ws/install/dsr_moveit_config_a0912/share/dsr_moveit_config_a0912/config/dsr.srdf
+[1.039s] -- Up-to-date symlink: /home/minsuje/ros2_ws/install/dsr_moveit_config_a0912/share/dsr_moveit_config_a0912/config/initial_positions.yaml
+[1.039s] -- Up-to-date symlink: /home/minsuje/ros2_ws/install/dsr_moveit_config_a0912/share/dsr_moveit_config_a0912/config/joint_limits.yaml
+[1.039s] -- Up-to-date symlink: /home/minsuje/ros2_ws/install/dsr_moveit_config_a0912/share/dsr_moveit_config_a0912/config/kinematics.yaml
+[1.039s] -- Up-to-date symlink: /home/minsuje/ros2_ws/install/dsr_moveit_config_a0912/share/dsr_moveit_config_a0912/config/moveit_controllers.yaml
+[1.039s] -- Up-to-date symlink: /home/minsuje/ros2_ws/install/dsr_moveit_config_a0912/share/dsr_moveit_config_a0912/config/ompl_planning.yaml
+[1.040s] -- Up-to-date symlink: /home/minsuje/ros2_ws/install/dsr_moveit_config_a0912/share/dsr_moveit_config_a0912/config/pilz_cartesian_limits.yaml
+[1.040s] -- Up-to-date symlink: /home/minsuje/ros2_ws/install/dsr_moveit_config_a0912/share/dsr_moveit_config_a0912/config/ros2_controllers.yaml
+[1.040s] -- Up-to-date symlink: /home/minsuje/ros2_ws/install/dsr_moveit_config_a0912/share/dsr_moveit_config_a0912/config/sensors_3d.yaml
+[1.040s] -- Up-to-date symlink: /home/minsuje/ros2_ws/install/dsr_moveit_config_a0912/share/dsr_moveit_config_a0912/.setup_assistant
+[1.179s] Invoked command in '/home/minsuje/ros2_ws/build/dsr_moveit_config_a0912' returned '0': CMAKE_PREFIX_PATH=/home/minsuje/ros2_ws/install/rokey:/home/minsuje/ros2_ws/install/pick_and_place_voice:/home/minsuje/ros2_ws/install/pick_and_place_text:/home/minsuje/ros2_ws/install/my_service_pkg:/home/minsuje/ros2_ws/install/dsr_visualservoing:/home/minsuje/ros2_ws/install/dsr_tests:/home/minsuje/ros2_ws/install/dsr_bringup2:/home/minsuje/ros2_ws/install/dsr_example:/opt/ros/humble:${CMAKE_PREFIX_PATH} /usr/bin/cmake --install /home/minsuje/ros2_ws/build/dsr_moveit_config_a0912

@@ -1,0 +1,1 @@
+/home/minsuje/turtlebot3_ws/build/turtlebot3_autorace_detect/launch/detect_all.launch.py

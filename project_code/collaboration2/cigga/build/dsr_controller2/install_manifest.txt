@@ -1,6 +1,0 @@
-/home/minsuje/ros2_ws/install/dsr_controller2/lib/libdsr_controller2.so
-/home/minsuje/ros2_ws/install/dsr_controller2/lib/libdsr_joint_trajectory.so
-/home/minsuje/ros2_ws/install/dsr_controller2/share/dsr_controller2/cmake/export_dsr_controller2Export.cmake
-/home/minsuje/ros2_ws/install/dsr_controller2/share/dsr_controller2/cmake/export_dsr_controller2Export-noconfig.cmake
-/home/minsuje/ros2_ws/install/dsr_controller2/share/dsr_controller2/cmake/export_dsr_joint_trajectoryExport.cmake
-/home/minsuje/ros2_ws/install/dsr_controller2/share/dsr_controller2/cmake/export_dsr_joint_trajectoryExport-noconfig.cmake

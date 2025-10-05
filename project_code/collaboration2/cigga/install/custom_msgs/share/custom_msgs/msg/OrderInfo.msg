@@ -1,1 +1,0 @@
-/home/minsuje/ros2_ws/Tutorial/VoiceProcessing/custom_msgs/msg/OrderInfo.msg

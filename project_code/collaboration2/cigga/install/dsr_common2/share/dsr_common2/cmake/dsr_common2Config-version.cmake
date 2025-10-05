@@ -1,1 +1,0 @@
-/home/minsuje/ros2_ws/build/dsr_common2/ament_cmake_core/dsr_common2Config-version.cmake

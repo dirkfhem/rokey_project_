@@ -1,6 +1,0 @@
-{
-  "package_name": "custom_msgs",
-  "non_idl_tuples": [
-    "/home/minsuje/ros2_ws/Tutorial/VoiceProcessing/custom_msgs:msg/OrderInfo.msg"
-  ]
-}

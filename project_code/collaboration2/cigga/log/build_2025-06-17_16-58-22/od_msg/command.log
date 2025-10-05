@@ -1,4 +1,0 @@
-Invoking command in '/home/minsuje/ros2_ws/build/od_msg': /usr/bin/cmake --build /home/minsuje/ros2_ws/build/od_msg -- -j32 -l32
-Invoked command in '/home/minsuje/ros2_ws/build/od_msg' returned '0': /usr/bin/cmake --build /home/minsuje/ros2_ws/build/od_msg -- -j32 -l32
-Invoking command in '/home/minsuje/ros2_ws/build/od_msg': /usr/bin/cmake --install /home/minsuje/ros2_ws/build/od_msg
-Invoked command in '/home/minsuje/ros2_ws/build/od_msg' returned '0': /usr/bin/cmake --install /home/minsuje/ros2_ws/build/od_msg

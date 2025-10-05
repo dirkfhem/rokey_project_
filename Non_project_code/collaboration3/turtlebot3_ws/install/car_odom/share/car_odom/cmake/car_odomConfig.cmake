@@ -1,1 +1,0 @@
-/home/minsuje/turtlebot3_ws/build/car_odom/ament_cmake_core/car_odomConfig.cmake

@@ -1,1 +1,0 @@
-/home/minsuje/ros2_ws/build/dsr_visualservoing/launch/dsr_bringup2_visual_servoing_gazebo.launch.py

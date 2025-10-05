@@ -1,1 +1,0 @@
-/home/minsuje/turtlebot3_ws/ws_car/src/car_tutorial/setup.py

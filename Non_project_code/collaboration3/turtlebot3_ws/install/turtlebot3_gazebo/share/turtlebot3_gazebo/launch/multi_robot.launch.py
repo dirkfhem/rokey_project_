@@ -1,1 +1,0 @@
-/home/minsuje/turtlebot3_ws/src/turtlebot3_simulations/turtlebot3_gazebo/launch/multi_robot.launch.py

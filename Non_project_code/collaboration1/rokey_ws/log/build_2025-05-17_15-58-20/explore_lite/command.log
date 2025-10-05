@@ -1,6 +1,0 @@
-Invoking command in '/home/minsuje/rokey_ws/build/explore_lite': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/minsuje/rokey_ws/src/m-explore-ros2/explore -DCMAKE_INSTALL_PREFIX=/home/minsuje/rokey_ws/install/explore_lite
-Invoked command in '/home/minsuje/rokey_ws/build/explore_lite' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/minsuje/rokey_ws/src/m-explore-ros2/explore -DCMAKE_INSTALL_PREFIX=/home/minsuje/rokey_ws/install/explore_lite
-Invoking command in '/home/minsuje/rokey_ws/build/explore_lite': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/minsuje/rokey_ws/build/explore_lite -- -j32 -l32
-Invoked command in '/home/minsuje/rokey_ws/build/explore_lite' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/minsuje/rokey_ws/build/explore_lite -- -j32 -l32
-Invoking command in '/home/minsuje/rokey_ws/build/explore_lite': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/minsuje/rokey_ws/build/explore_lite
-Invoked command in '/home/minsuje/rokey_ws/build/explore_lite' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/minsuje/rokey_ws/build/explore_lite

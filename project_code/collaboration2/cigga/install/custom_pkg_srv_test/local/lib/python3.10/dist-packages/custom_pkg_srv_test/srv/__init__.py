@@ -1,1 +1,0 @@
-/home/minsuje/ros2_ws/build/custom_pkg_srv_test/rosidl_generator_py/custom_pkg_srv_test/srv/__init__.py

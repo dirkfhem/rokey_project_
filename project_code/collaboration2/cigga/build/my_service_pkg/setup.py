@@ -1,1 +1,0 @@
-/home/minsuje/ros2_ws/Tutorial/ROS_Tutorial/PackageTutorial/src/my_service_pkg/setup.py

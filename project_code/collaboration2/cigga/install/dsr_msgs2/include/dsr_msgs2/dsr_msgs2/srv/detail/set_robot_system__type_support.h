@@ -1,1 +1,0 @@
-/home/minsuje/ros2_ws/build/dsr_msgs2/rosidl_generator_c/dsr_msgs2/srv/detail/set_robot_system__type_support.h

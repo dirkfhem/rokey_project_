@@ -1,1 +1,0 @@
-/home/minsuje/turtlebot3_ws/build/arm_tutorial/launch/testbot.launch.py

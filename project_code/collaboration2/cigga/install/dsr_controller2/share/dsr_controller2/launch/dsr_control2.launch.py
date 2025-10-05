@@ -1,1 +1,0 @@
-/home/minsuje/ros2_ws/src/DoosanBootcamp3rd/dsr_controller2/launch/dsr_control2.launch.py

@@ -1,1 +1,0 @@
-/home/minsuje/ros2_ws/build/dsr_visualservoing/launch/visual_servoing_gz.launch.py

@@ -1,1 +1,0 @@
-/home/minsuje/ros2_ws/src/DoosanBootcamp3rd/dsr_description2/launch/dsr_description.launch.py

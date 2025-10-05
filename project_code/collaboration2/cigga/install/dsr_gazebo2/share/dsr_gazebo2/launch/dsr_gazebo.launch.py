@@ -1,1 +1,0 @@
-/home/minsuje/ros2_ws/src/DoosanBootcamp3rd/dsr_gazebo2/launch/dsr_gazebo.launch.py

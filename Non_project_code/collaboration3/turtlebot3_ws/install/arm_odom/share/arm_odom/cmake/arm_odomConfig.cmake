@@ -1,1 +1,0 @@
-/home/minsuje/turtlebot3_ws/build/arm_odom/ament_cmake_core/arm_odomConfig.cmake

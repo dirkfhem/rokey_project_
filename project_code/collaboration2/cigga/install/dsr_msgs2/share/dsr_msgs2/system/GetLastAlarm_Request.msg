@@ -1,1 +1,0 @@
-/home/minsuje/ros2_ws/build/dsr_msgs2/rosidl_cmake/srv/system/GetLastAlarm_Request.msg

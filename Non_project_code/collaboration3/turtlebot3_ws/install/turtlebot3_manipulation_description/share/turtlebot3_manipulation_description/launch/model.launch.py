@@ -1,1 +1,0 @@
-/home/minsuje/turtlebot3_ws/src/turtlebot3_manipulation/turtlebot3_manipulation_description/launch/model.launch.py

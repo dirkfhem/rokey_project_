@@ -1,1 +1,0 @@
-/home/minsuje/ros2_ws/src/DoosanBootcamp3rd/dsr_moveit2/dsr_moveit_config_h2515/launch/start.launch.py

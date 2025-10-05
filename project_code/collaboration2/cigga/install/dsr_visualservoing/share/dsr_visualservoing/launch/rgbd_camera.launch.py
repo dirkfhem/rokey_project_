@@ -1,1 +1,0 @@
-/home/minsuje/ros2_ws/build/dsr_visualservoing/launch/rgbd_camera.launch.py

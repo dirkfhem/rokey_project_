@@ -1,1 +1,0 @@
-/home/minsuje/ros2_ws/build/dsr_msgs2/rosidl_generator_py/dsr_msgs2/_dsr_msgs2_s.ep.rosidl_typesupport_introspection_c.c

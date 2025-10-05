@@ -1,1 +1,0 @@
-/home/minsuje/ros2_ws/build/my_interfaces/rosidl_generator_c/my_interfaces/srv/add_three_ints.h

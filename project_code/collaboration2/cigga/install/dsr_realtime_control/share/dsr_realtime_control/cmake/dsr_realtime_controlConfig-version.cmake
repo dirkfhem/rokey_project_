@@ -1,1 +1,0 @@
-/home/minsuje/ros2_ws/build/dsr_realtime_control/ament_cmake_core/dsr_realtime_controlConfig-version.cmake

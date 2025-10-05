@@ -1,8 +1,0 @@
-[console_scripts]
-ciga_obj_detect = object_detection.detction_cigarette:main
-ciga_robo_ctrl = robot_control.robot_control_cigarette:main
-get_keyword = voice_processing.get_keyword:main
-object_detection = object_detection.detection:main
-robot_control = robot_control.robot:main
-voice_order_ciga = voice_processing.llm_ciga_order:main
-

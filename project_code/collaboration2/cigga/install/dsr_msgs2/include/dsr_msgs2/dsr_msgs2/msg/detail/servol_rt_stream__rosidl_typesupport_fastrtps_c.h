@@ -1,1 +1,0 @@
-/home/minsuje/ros2_ws/build/dsr_msgs2/rosidl_typesupport_fastrtps_c/dsr_msgs2/msg/detail/servol_rt_stream__rosidl_typesupport_fastrtps_c.h

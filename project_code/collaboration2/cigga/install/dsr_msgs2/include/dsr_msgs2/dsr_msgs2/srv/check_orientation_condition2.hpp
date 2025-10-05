@@ -1,1 +1,0 @@
-/home/minsuje/ros2_ws/build/dsr_msgs2/rosidl_generator_cpp/dsr_msgs2/srv/check_orientation_condition2.hpp

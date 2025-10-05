@@ -1,1 +1,0 @@
-/home/minsuje/turtlebot3_ws/build/open_manipulator_x_gui/ament_cmake_export_include_directories/ament_cmake_export_include_directories-extras.cmake

@@ -1,1 +1,0 @@
-/home/minsuje/ros2_ws/build/dsr_msgs2/ament_cmake_core/dsr_msgs2Config.cmake

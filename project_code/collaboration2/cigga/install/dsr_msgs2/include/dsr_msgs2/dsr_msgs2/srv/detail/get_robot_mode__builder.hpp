@@ -1,1 +1,0 @@
-/home/minsuje/ros2_ws/build/dsr_msgs2/rosidl_generator_cpp/dsr_msgs2/srv/detail/get_robot_mode__builder.hpp

@@ -1,1 +1,0 @@
-/home/minsuje/ros2_ws/build/dsr_visualservoing/launch/dsr_gazebo_visual_servoing.launch.py

@@ -1,0 +1,26 @@
+robot:
+  ROBOT_ID: "dsr01"
+  ROBOT_MODEL: "m0609"
+  VELOCITY: 60
+  ACC: 60
+  GRIPPER_NAME: "rg2"
+  TOOLCHARGER_IP: "192.168.1.1"
+  TOOLCHARGER_PORT: "502"
+  DEPTH_OFFSET: -5.0
+  MIN_DEPTH: 2.0
+
+llm:
+  OPENAI_API_KEY: "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"
+  MAX_RETRIES: 10
+
+CIGARETTE_NAME_MAP:
+  theone: "더원"
+  parliament: "필라멘트"
+  africa: "아프리카"
+  dunhill: "던힐"
+  bohem: "보햄"
+  halla: "한라산"
+  esse: "에쎄"
+  raison: "레종"
+  mevius: "메비우스"
+  thisplus: "디스플러스"

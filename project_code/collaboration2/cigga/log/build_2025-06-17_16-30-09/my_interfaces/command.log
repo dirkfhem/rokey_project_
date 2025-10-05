@@ -1,6 +1,0 @@
-Invoking command in '/home/minsuje/ros2_ws/build/my_interfaces': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/minsuje/ros2_ws/Tutorial/ROS_Tutorial/PackageTutorial/src/my_interfaces -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/minsuje/ros2_ws/install/my_interfaces
-Invoked command in '/home/minsuje/ros2_ws/build/my_interfaces' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/minsuje/ros2_ws/Tutorial/ROS_Tutorial/PackageTutorial/src/my_interfaces -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/minsuje/ros2_ws/install/my_interfaces
-Invoking command in '/home/minsuje/ros2_ws/build/my_interfaces': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/minsuje/ros2_ws/build/my_interfaces -- -j32 -l32
-Invoked command in '/home/minsuje/ros2_ws/build/my_interfaces' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/minsuje/ros2_ws/build/my_interfaces -- -j32 -l32
-Invoking command in '/home/minsuje/ros2_ws/build/my_interfaces': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/minsuje/ros2_ws/build/my_interfaces
-Invoked command in '/home/minsuje/ros2_ws/build/my_interfaces' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/minsuje/ros2_ws/build/my_interfaces

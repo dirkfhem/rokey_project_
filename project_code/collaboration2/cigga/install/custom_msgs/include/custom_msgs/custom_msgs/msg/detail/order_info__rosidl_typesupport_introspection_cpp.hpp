@@ -1,1 +1,0 @@
-/home/minsuje/ros2_ws/build/custom_msgs/rosidl_typesupport_introspection_cpp/custom_msgs/msg/detail/order_info__rosidl_typesupport_introspection_cpp.hpp

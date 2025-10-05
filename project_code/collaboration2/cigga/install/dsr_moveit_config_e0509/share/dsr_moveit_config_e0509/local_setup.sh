@@ -1,1 +1,0 @@
-/home/minsuje/ros2_ws/build/dsr_moveit_config_e0509/ament_cmake_environment_hooks/local_setup.sh

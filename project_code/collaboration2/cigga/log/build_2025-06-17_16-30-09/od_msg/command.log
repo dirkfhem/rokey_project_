@@ -1,6 +1,0 @@
-Invoking command in '/home/minsuje/ros2_ws/build/od_msg': /usr/bin/cmake /home/minsuje/ros2_ws/src/DoosanBootcamp3rd/dsr_rokey/od_msg -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCATKIN_SYMLINK_INSTALL=ON -DCMAKE_INSTALL_PREFIX=/home/minsuje/ros2_ws/install/od_msg
-Invoked command in '/home/minsuje/ros2_ws/build/od_msg' returned '0': /usr/bin/cmake /home/minsuje/ros2_ws/src/DoosanBootcamp3rd/dsr_rokey/od_msg -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCATKIN_SYMLINK_INSTALL=ON -DCMAKE_INSTALL_PREFIX=/home/minsuje/ros2_ws/install/od_msg
-Invoking command in '/home/minsuje/ros2_ws/build/od_msg': /usr/bin/cmake --build /home/minsuje/ros2_ws/build/od_msg -- -j32 -l32
-Invoked command in '/home/minsuje/ros2_ws/build/od_msg' returned '0': /usr/bin/cmake --build /home/minsuje/ros2_ws/build/od_msg -- -j32 -l32
-Invoking command in '/home/minsuje/ros2_ws/build/od_msg': /usr/bin/cmake --install /home/minsuje/ros2_ws/build/od_msg
-Invoked command in '/home/minsuje/ros2_ws/build/od_msg' returned '0': /usr/bin/cmake --install /home/minsuje/ros2_ws/build/od_msg

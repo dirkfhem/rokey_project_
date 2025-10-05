@@ -1,1 +1,0 @@
-/home/minsuje/ros2_ws/build/dsr_msgs2/rosidl_typesupport_introspection_cpp/dsr_msgs2/srv/detail/get_ctrl_box_digital_input__rosidl_typesupport_introspection_cpp.hpp

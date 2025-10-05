@@ -1,1 +1,0 @@
-/home/minsuje/ros2_ws/src/DoosanBootcamp3rd/dsr_example2/dsr_visualservoing/launch/visual_servoing_gz.launch.py

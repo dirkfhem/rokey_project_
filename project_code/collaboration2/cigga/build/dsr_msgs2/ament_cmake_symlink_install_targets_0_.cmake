@@ -1,1 +1,0 @@
-ament_cmake_symlink_install_targets("TARGET_FILES" "/home/minsuje/ros2_ws/build/dsr_msgs2/rosidl_generator_py/dsr_msgs2/dsr_msgs2_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so" "TARGETS" "dsr_msgs2__rosidl_typesupport_fastrtps_c__pyext" "DESTINATION" "local/lib/python3.10/dist-packages/dsr_msgs2")

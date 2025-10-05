@@ -1,1 +1,0 @@
-/home/minsuje/turtlebot3_ws/build/urdf_tutorial/launch/sim.launch.py

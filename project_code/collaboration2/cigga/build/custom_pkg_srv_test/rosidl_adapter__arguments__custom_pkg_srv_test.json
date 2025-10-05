@@ -1,6 +1,0 @@
-{
-  "package_name": "custom_pkg_srv_test",
-  "non_idl_tuples": [
-    "/home/minsuje/ros2_ws/src/custom_pkg_srv_test:srv/CustomService.srv"
-  ]
-}

@@ -1,1 +1,0 @@
-/home/minsuje/ros2_ws/src/DoosanBootcamp3rd/dsr_controller2/include/dsr_controller2/dsr_controller2.hpp

@@ -1,1 +1,0 @@
-/home/minsuje/ros2_ws/build/custom_pkg_srv_test/rosidl_generator_cpp/custom_pkg_srv_test/srv/custom_service.hpp

@@ -1,1 +1,0 @@
-/home/minsuje/ros2_ws/src/DoosanBootcamp3rd/dsr_example2/dsr_realtime_control/include/dsr_realtime_control/burn_cpu_cycles.hpp

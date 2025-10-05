@@ -1,3 +1,0 @@
-[console_scripts]
-fake_driver = arm_tutorial.fake_driver:main
-

@@ -1,1 +1,0 @@
-/home/minsuje/ros2_ws/build/dsr_msgs2/rosidl_generator_c/dsr_msgs2/msg/detail/speedl_rt_stream__struct.h

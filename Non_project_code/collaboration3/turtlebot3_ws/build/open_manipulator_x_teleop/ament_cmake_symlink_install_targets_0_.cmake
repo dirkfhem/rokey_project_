@@ -1,1 +1,0 @@
-ament_cmake_symlink_install_targets("TARGET_FILES" "/home/minsuje/turtlebot3_ws/build/open_manipulator_x_teleop/open_manipulator_x_teleop" "TARGETS" "open_manipulator_x_teleop" "DESTINATION" "lib/open_manipulator_x_teleop")

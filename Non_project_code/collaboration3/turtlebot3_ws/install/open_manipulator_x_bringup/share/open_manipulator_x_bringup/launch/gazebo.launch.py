@@ -1,1 +1,0 @@
-/home/minsuje/turtlebot3_ws/open_manipulator/open_manipulator_x_bringup/launch/gazebo.launch.py

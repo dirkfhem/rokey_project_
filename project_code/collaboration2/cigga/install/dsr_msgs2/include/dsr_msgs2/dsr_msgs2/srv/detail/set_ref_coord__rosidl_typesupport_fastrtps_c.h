@@ -1,1 +1,0 @@
-/home/minsuje/ros2_ws/build/dsr_msgs2/rosidl_typesupport_fastrtps_c/dsr_msgs2/srv/detail/set_ref_coord__rosidl_typesupport_fastrtps_c.h

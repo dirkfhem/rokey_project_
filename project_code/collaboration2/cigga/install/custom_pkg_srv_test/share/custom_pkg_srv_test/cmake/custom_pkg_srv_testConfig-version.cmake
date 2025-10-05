@@ -1,1 +1,0 @@
-/home/minsuje/ros2_ws/build/custom_pkg_srv_test/ament_cmake_core/custom_pkg_srv_testConfig-version.cmake
